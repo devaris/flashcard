@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!--  Default mobile Resize    
+    <meta name="viewport" content="initial-scale=2.0,width=device-width">
+    <meta name="viewport" content="width=device-width, maximum-scale=3, minimum-scale=0.5">
+    -->
+
+    <title>Pearson USA FlashCards</title>
+    <link rel="stylesheet" type="text/css" href="css/global.css">
+	<link rel="stylesheet" type="text/css" href="css/elements.css">
+
+     <!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+     
+     
+    <script src="settings/settings.json"></script>
+    <script src="js/jquery-1.10.1.min.js.js"></script>
+	<script src="js/jquery.mobile-events.min.js"></script>
+	<script src="js/jquery.waitforimages.min.js"></script>      
+<!--    <script src="js/loadXML.js"></script>
+	<script src="js/XML2Object.js"></script>-->
+    <script src="js/common.js"></script>
+    <script src="js/fc.js"></script>
+    <script src="js/audio.js"></script>
+</head>
+
+<body>
+<div id="wrapper"> 
+<span name="txt_test" class="hiddenareas" id="txt_test" value="test me">test me</span>
+<span name="txt2_test" class="hiddenareas" id="txt2_test" value="test me">test me</span>
+        <header id="buttons" class="gradient">  
+            <div class="designFill"></div>
+            <button type="button" value="" name="face" id="face" class="uibuttons bempty"><span>..</span></button>
+            <button type="button" value="" name="shuffle" id="shuffle" class="uibuttons bempty"><span>..</span></button>
+            <span id="filterby">Filter By: <img src="./layout/filterIcon.png" width="16" height="16" alt="filter icon"/></span>
+            <select id="units" name="unit" class="bempty">
+                <option value=""></option>
+            </select>
+            <select id="lessons" name="lesson" class="bempty">
+                <option value=""></option>
+            </select>
+            <button type="button" value="" name="hide" id="hide" class="uibuttons bempty"><span>..</span></button>
+            <button type="button" value="" name="audio" id="audiop" class="uibuttons bempty"><span>..</span></button>
+            <button type="button" value="" name="previous" id="previous" disabled="disabled" class="uibuttons bempty"><span>..</span></button>
+            <button type="button" value="" name="next" id="next" class="uibuttons bempty"><span>..</span></button>
+			<button type="button" value="Flip" name="flip" id="flip" class="uibuttons bempty"><span>..</span></button>            
+            <input type="text" value="1 of" name="counter" id="counter" readonly>
+        </header>
+        <nav id="left" class="thumbsMain">
+         	<ul>
+                <li></li>
+            </ul>
+        </nav>
+        <section id="center" class="centerDiv">
+            <img id="centerfold" src="Flashcard_Images/">
+            <span id="centerfoldt" class="theText"></span>
+        </section>
+        <div id="progress" class="progress-indicator">
+           <img src="layout/icon_loading_75x75.gif" alt="" />
+        </div>
+	</div>
+    <div id="preloadedImages">
+        <img src="layout/hideThumbs.png" width="1" height="1" alt="Image1" />
+        <img src="layout/hideThumbs-active.png" width="1" height="1" alt="Image2" />
+        <img src="layout/hideThumbs-disabled.png" width="1" height="1" alt="Image3" />
+        <img src="layout/hideThumbs-hover.png" width="1" height="1" alt="Image4" />
+        <img src="layout/next-active.png" width="1" height="1" alt="Image5" />
+        <img src="layout/next-disabled.png" width="1" height="1" alt="Image6" />
+        <img src="layout/next-hover.png" width="1" height="1" alt="Image7" />
+        <img src="layout/next-normal.png" width="1" height="1" alt="Image8" />
+        <img src="layout/previous-active.png" width="1" height="1" alt="Image9" />
+        <img src="layout/previous-disabled.png" width="1" height="1" alt="Image10" />
+        <img src="layout/previous-hover.png" width="1" height="1" alt="Image11" />
+        <img src="layout/previous-normal.png" width="1" height="1" alt="Image12" />
+        <img src="layout/showThumbs.png" width="1" height="1" alt="Image13" />
+        <img src="layout/showThumbs-active.png" width="1" height="1" alt="Image14" />
+        <img src="layout/showThumbs-disabled.png" width="1" height="1" alt="Image15" />
+        <img src="layout/showThumbs-hover.png" width="1" height="1" alt="Image16" />
+        <img src="layout/shuffle-active.png" width="1" height="1" alt="Image17" />
+        <img src="layout/shuffle-disabled.png" width="1" height="1" alt="Image18" />
+        <img src="layout/shuffle-hover.png" width="1" height="1" alt="Image19" />
+        <img src="layout/shuffle-normal.png" width="1" height="1" alt="Image20" />
+        <img src="layout/switch-active.png" width="1" height="1" alt="Image21" />
+        <img src="layout/switch-disabled.png" width="1" height="1" alt="Image22" />
+        <img src="layout/switch-hover.png" width="1" height="1" alt="Image23" />
+        <img src="layout/switch-normal.png" width="1" height="1" alt="Image24" />
+        <img src="layout/unshuffle-active.png" width="1" height="1" alt="Image25" />
+        <img src="layout/unshuffle-disabled.png" width="1" height="1" alt="Image26" />
+        <img src="layout/unshuffle-hover.png" width="1" height="1" alt="Image27" />
+        <img src="layout/unshuffle-normal.png" width="1" height="1" alt="Image28" />
+	</div>
+    <script src="js/retina-1.1.0.min.js"></script> 
+</body>
+</html>

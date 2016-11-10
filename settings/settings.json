@@ -1,0 +1,215 @@
+// JavaScript Document
+//Global project specific labels and settings.
+
+var settings = {
+	"buttonLabels" : {
+		"face" : "Flip All",
+		"shuffle" : "Shuffle",
+		"unshuffle" : "Unshuffle",
+		"hide" : "Hide Thumbnails",
+		"show" : "Show Thumbnails",
+		"previous" : "<< Previous",
+		"next" : "Next >>",
+		"flip" : "Flip",
+		"unitAll" : "All Units",
+		"lessonAll" : "All Lessons",
+		"unit" : "Unit",
+		"lesson" : "Lesson",
+		"audio" : "Play Audio"
+	//usage: Specify the label of each button or button state on the right side of each assignment.
+	},
+	"appearanceColours" : {
+					"mainBg" : "black",
+					"mainTxt" : "#FAF3E4",					
+					"thumbBg" : "black",
+					"thumbBrdr" : "#B1B1B1"
+
+	},
+	"appearanceStyles" : {
+		"default" : {
+			"normal" : {
+				"colour1" : "#BD004B", "colour2" : "#3C0019"
+			},
+			"hover" : {
+				"colour1" : "#75002d", "colour2" : "#4b001e"
+			},
+			"active" : {
+				"colour1" : "#75002d", "colour2" : "#4b001e"
+			},
+			"disabled" : {
+				"colour1" : "#9e4768", "colour2" : "#71324e"
+			},
+			"dimensions" : { 
+				"width" : "186",
+				"height" : "31"
+			}
+		},
+		"face" : {
+			"normal" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/switch-normal.png"
+			},
+			"hover" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/switch-hover.png"
+			},
+			"active" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/switch-active.png"
+			},
+			"disabled" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/switch-disabled.png"
+			},
+			"dimensions" : { 
+				"width":"",
+				"height":""
+			}
+		},
+		"flip" : {
+			"normal" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/flip-normal.png"
+			},
+			"hover" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/flip-hover.png"
+			},
+			"active" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/flip-active.png"
+			},
+			"disabled" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/flip-disabled.png"
+			},
+			"dimensions" : { 
+				"width":"62",
+				"height":"62"
+			}
+		},
+		"shuffle" : {
+			"normal" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/shuffle-normal.png"
+			},
+			"hover" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/shuffle-hover.png"
+			},
+			"active" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/shuffle-active.png"
+			},
+			"disabled" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/shuffle-disabled.png"
+			},
+			"dimensions" : { 
+				"width":"",
+				"height":""
+			}
+		},
+		"unshuffle" : {
+			"normal" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/unshuffle-normal.png"
+			},
+			"hover" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/unshuffle-hover.png"
+			},
+			"active" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/unshuffle-active.png"
+			},
+			"disabled" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/unshuffle-disabled.png"
+			},
+			"dimensions" : { 
+				"width":"",
+				"height":""
+			}
+		},
+		"next" : {
+			"normal" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/next-normal.png"
+			},
+			"hover" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/next-hover.png"
+			},
+			"active" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/next-active.png"
+			},
+			"disabled" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/next-disabled.png"
+			},
+			"dimensions" : { 
+				"width":"",
+				"height":""
+			}
+		},
+		"previous" : {
+			"normal" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/previous-normal.png"
+			},
+			"hover" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/previous-hover.png"
+			},
+			"active" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/previous-active.png"
+			},
+			"disabled" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/previous-disabled.png"
+			},
+			"dimensions" : { 
+				"width":"",
+				"height":""
+			}
+		},
+		"audio" : {
+			"normal" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/audio-normal.png"
+			},
+			"hover" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/audio-hover.png"
+			},
+			"active" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/audio-active.png"
+			},
+			"disabled" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/audio-disabled.png"
+			},
+			"dimensions" : { 
+				"width":"135",
+				"height":""
+			}
+		},
+		"hide" : {
+			"normal" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/hideThumbs.png"
+			},
+			"hover" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/hideThumbs-hover.png"
+			},
+			"active" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/hideThumbs-active.png"
+			},
+			"disabled" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/hideThumbs-disabled.png"
+			},
+			"dimensions" : { 
+				"width":"240",
+				"height":""
+			}
+		},
+		"show" : {
+			"normal" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/showThumbs.png"
+			},
+			"hover" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/showThumbs-hover.png"
+			},
+			"active" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/showThumbs-active.png"
+			},
+			"disabled" : {
+				"colour1" : "", "colour2" : "", "image" : "./layout/showThumbs-disabled.png"
+			},
+			"dimensions" : { 
+				"width":"240",
+				"height":""
+			}
+		}
+	},
+	"buttonsOn" : ["face", "shuffle", "hide", "show", "flip", "previous", "next", "unit", "lesson", "audio"],
+	"mediaLocation" : {"audio" : "audio/", "images" : "Flashcard_Images/", "xmlURL" : "xml/fc0.xml"}, //all paths relative to index.html
+	//usage: the buttons that will not be included here will be removed from the current instance of the player.
+	//full set of buttons : "face", "shuffle", "hide", "show","flip", "previous", "next", "unit", "lesson", "audio"
+	"allowDebugMessages" : "true"//set to "false" on deployment server, "true" for production
+}

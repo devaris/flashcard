@@ -1,0 +1,2242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <unit no="1">
+        <lesson no="1">
+            <item audio="proj1_afc_u01ls01_01">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls01_01.jpg]]>           
+                </side>
+                <side daType="t"><![CDATA[a shopping cart]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls01_02">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls01_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[introduce]]>
+                </side>
+            </item>
+
+            <item audio="proj1_afc_u01ls01_03">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls01_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[shake hands]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls01_04">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls01_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an employee]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls01_05">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls01_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a customer]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="2">
+            <item audio="proj1_afc_u01ls02_01">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls02_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[the deli]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls02_02">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls02_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a deli worker]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls02_03">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls02_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[the produce department]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls02_04">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls02_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a produce associate]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls02_05">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls02_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[the meat department]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls02_06">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls02_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a butcher]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls02_07">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls02_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[the bakery]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls02_08">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls02_08.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a baker]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls02_09">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls02_09.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[the dairy department]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls02_10">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls02_10.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a dairy associate]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="4">
+            <item audio="proj1_afc_u01ls04_01">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls04_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[on]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls04_02">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls04_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[above]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls04_03">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls04_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[under]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls04_04">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls04_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a spoon]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls04_05">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls04_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a fork]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls04_06">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls04_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a knife]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls04_07">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls04_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[paper towels]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls04_08">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls04_08.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[gloves]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls04_09">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls04_09.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[aprons]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="6">
+            <item audio="proj1_afc_u01ls06_01">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls06_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[at the back]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls06_02">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls06_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[at the front]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls06_03">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls06_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[on the left]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls06_04">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls06_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[on the right]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls06_05">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls06_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[next to]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="9">
+            <item audio="proj1_afc_u01ls09_01">
+                <side daType="t"><![CDATA[one]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">1</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls09_02">
+                <side daType="t"><![CDATA[two]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">2</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls09_03">
+                <side daType="t"><![CDATA[three]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">3</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls09_04">
+                <side daType="t"><![CDATA[four]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">4</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls09_05">
+                <side daType="t"><![CDATA[five]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">5</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls09_06">
+                <side daType="t"><![CDATA[six]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">6</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls09_07">
+                <side daType="t"><![CDATA[seven]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">7</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls09_08">
+                <side daType="t"><![CDATA[eight]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">8</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls09_09">
+                <side daType="t"><![CDATA[nine]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">9</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls09_10">
+                <side daType="t"><![CDATA[area code]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">2</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls09_11">
+                <side daType="t"><![CDATA[extension]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">x5000</font>]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="11">
+            <item audio="proj1_afc_u01ls11_01">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls11_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[lucky]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls11_02">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls11_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[floor]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls11_03">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls11_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[married]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="12">
+            <item audio="proj1_afc_u01ls12_01a">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls12_01a.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an indoor job]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls12_01b">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls12_01b.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an outdoor job]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls12_01c">
+                <side daType="t"><![CDATA[a full-time job]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">FT / 35-40 hours</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls12_01d">
+                <side daType="t"><![CDATA[a part-time job]]>
+                </side>
+                <side daType="t"><![CDATA[<font color="#9d1348">PT / 15-20 hours</font>]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u01ls12_01e">
+                <side daType="i"><![CDATA[proj1_ifc_u01ls12_01e.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[transportation]]>
+                </side>
+            </item>
+        </lesson>
+    </unit>
+    <unit no="2">
+        <lesson no= "1">
+            <item audio="proj1_afc_u02ls01_01">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls01_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[sick]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls01_02">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls01_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[happy]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls01_03">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls01_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[upset]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls01_04">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls01_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[stressed]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="3">
+            <item audio="proj1_afc_u02ls03_01">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls03_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[tall]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls03_02">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls03_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[short]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls03_03">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls03_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[thin]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls03_04">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls03_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[hungry]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls03_05">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls03_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[blond hair]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="5">
+            <item audio="proj1_afc_u02ls05_01">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls05_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[bills]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls05_02">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls05_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[coins]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls05_03">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls05_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[cash]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls05_04">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls05_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a check]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls05_05">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls05_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a credit card]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="6">
+            <item audio="proj1_afc_u02ls06_01">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a pineapple]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_02">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a carrot]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_03">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[tomatoes]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_05">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[bananas]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_06">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[peppers]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_07">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[potatoes]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_08">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_08.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[apples]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_09">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_09.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[onions]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_10">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_10.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[oranges]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_11">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_11.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a bag]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_12">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_12.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a pound]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls06_13">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls06_13.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a bunch]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="7">
+            <item audio="proj1_afc_u02ls07_01">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls07_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a savings card]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls07_02">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls07_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a coupon]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls07_03">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls07_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[swipe your card]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls07_04">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls07_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a receipt]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls07_05">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls07_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[the price]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="11">
+            <item audio="proj1_afc_u02ls11_01">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls11_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[go shopping]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls11_02">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls11_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[spend money]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls11_03">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls11_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[save money]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls11_04">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls11_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[make a budget]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls11_05">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls11_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[talk about something]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls11_06">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls11_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[think about something]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="12">
+            <item audio="proj1_afc_u02ls12_01a">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls12_01a.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[use a computer]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls12_01b">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls12_01b.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[use a cash register]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls12_01c">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls12_01c.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[come to work on time]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls12_01d">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls12_01d.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[work with people]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u02ls12_01e">
+                <side daType="i"><![CDATA[proj1_ifc_u02ls12_01e.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[work with machines]]>
+                </side>
+            </item>
+        </lesson>
+    </unit>
+    <unit no="3">
+        <lesson no= "1">
+            <item audio="proj1_afc_u03ls01_01">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls01_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[traffic]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls01_02">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls01_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an accident]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls01_03">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls01_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a highway]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="2">
+            <item audio="proj1_afc_u03ls02_01">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls02_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a traffic light]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls02_02">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls02_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a stop sign]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls02_03">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls02_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[speed limit]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls02_04">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls02_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[no left turn sign]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls02_05">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls02_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[no right turn sign]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls02_06">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls02_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a lane]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="3">
+            <item audio="proj1_afc_u03ls03_01">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls03_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[carry]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls03_02">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls03_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[unpack]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls03_03">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls03_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[boxes]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls03_04">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls03_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[broccoli]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls03_05">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls03_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a melon]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls03_06">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls03_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a shopping basket]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="5">
+            <item audio="proj1_afc_u03ls05_01">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls05_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[fruits]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls05_02">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls05_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[vegetables]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls05_03">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls05_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a flyer]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="6">
+            <item audio="proj1_afc_u03ls06_01">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls06_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[chili peppers]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls06_02">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls06_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[spicy]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls06_03">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls06_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[sweet]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls06_04">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls06_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[fish]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls06_05">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls06_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[garlic]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls06_06">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls06_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[red]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls06_07">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls06_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[green]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls06_08">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls06_08.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[yellow]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="8">
+            <item audio="proj1_afc_u03ls08_01">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls08_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[It's one o'clock.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls08_02">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls08_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[It's 1:15.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls08_03">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls08_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[It's 1:30.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls08_04">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls08_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[It's1:45. It's a  quarter to two.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls08_05">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls08_05a.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[A.M.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls08_06">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls08_06a.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[P.M.]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="9">
+            <item audio="proj1_afc_u03ls09_01">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls09_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[early]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls09_02">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls09_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[late]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls09_04">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls09_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a garage]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="11">
+            <item audio="proj1_afc_u03ls11_01">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls11_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a parking space]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls11_02">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls11_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[pollution]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls11_03">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls11_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[plug in]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls11_04">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls11_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[charge]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls11_05">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls11_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[wet]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls11_06">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls11_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[cold]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u03ls11_07">
+                <side daType="i"><![CDATA[proj1_ifc_u03ls11_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[afraid]]>
+                </side>
+            </item>
+        </lesson>
+    </unit>
+    <unit no="4">
+        <lesson no= "1">
+            <item audio="proj1_afc_u04ls01_01">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls01_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[razor blades]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls01_02">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls01_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[paper towels]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls01_03">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls01_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[deodorant]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls01_04">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls01_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[soap]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls01_05">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls01_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[toothpaste]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls01_06">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls01_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[shampoo]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls01_07">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls01_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[tissues]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="4">
+            <item audio="proj1_afc_u04ls04_01">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls04_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[spill]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls04_02">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls04_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a mop]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls04_03">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls04_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a warning sign]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls04_04">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls04_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a wet floor]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls04_05">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls04_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[slip]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls04_06">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls04_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[fall]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="5">
+            <item audio="proj1_afc_u04ls05_01">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls05_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[soup]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls05_02">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls05_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[beans]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls05_03">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls05_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a recipe]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls05_04">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls05_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[small, medium, large]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls05_05">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls05_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[cilantro]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="9">
+            <item audio="proj1_afc_u04ls09_01">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls09_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[the movies]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls09_02">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls09_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a party]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls09_03">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls09_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a menu]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="10">
+            <item audio="proj1_afc_u04ls10_01">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls10_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[blood pressure]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls10_02">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls10_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[gain weight]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls10_05">
+                <side daType="i"><![CDATA[proj1_ifc_u04ls10_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[memory]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="12">
+            <item audio="proj1_afc_u04ls12_01b">
+                <side daType="t"><![CDATA[<font color="#ff6600">F/T</font>]]>
+                </side>
+                <side daType="t"><![CDATA[full time]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls12_02b">
+                <side daType="t"><![CDATA[<font color="#ff6600">P/T</font>]]>
+                </side>
+                <side daType="t"><![CDATA[part time]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls12_03b">
+                <side daType="t"><![CDATA[<font color="#ff6600">wknds</font>]]>
+                </side>
+                <side daType="t"><![CDATA[weekends]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls12_04b">
+                <side daType="t"><![CDATA[<font color="#ff6600">ref</font>]]>
+                </side>
+                <side daType="t"><![CDATA[reference]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls12_05b">
+                <side daType="t"><![CDATA[<font color="#ff6600">M-F</font>]]>
+                </side>
+                <side daType="t"><![CDATA[Monday to Friday]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u04ls12_06b">
+                <side daType="t"><![CDATA[<font color="#ff6600">exp req</font>]]>
+                </side>
+                <side daType="t"><![CDATA[experience required]]>
+                </side>
+            </item>
+        </lesson>
+    </unit>
+    <unit no="5">
+        <lesson no= "1">
+            <item audio="proj1_afc_u05ls01_01">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls01_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[It's windy.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls01_02">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls01_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[It's raining.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls01_03">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls01_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[It's cloudy.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls01_04">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls01_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[It's hot.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls01_05">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls01_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[It's snowing.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls01_06">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls01_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[It's sunny.]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls01_07">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls01_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[seasons]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="2">
+            <item audio="proj1_afc_u05ls02_01">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls02_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an adhesive bandage]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls02_02">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls02_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[bleed]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls02_03">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls02_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a headache]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls02_04">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls02_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a stomachache]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls02_05">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls02_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a cough]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls02_06">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls02_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a fever]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls02_07">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls02_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[the flu]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="4">
+            <item audio="proj1_afc_u05ls04_01">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls04_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a year]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls04_02">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls04_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a month]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls04_03">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls04_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a week]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls04_04">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls04_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[days]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="6">
+            <item audio="proj1_afc_u05ls06_01">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls06_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[appointment]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls06_02">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls06_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an opening]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls06_03">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls06_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a patient]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls06_04">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls06_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[look up]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls06_05">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls06_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a system]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="8">
+            <item audio="proj1_afc_u05ls08_02a">
+                <side daType="t"><![CDATA[<font color="#ff6600">contact numbers</font>]]>
+                </side>
+                <side daType="t"><![CDATA[your cell, home, and work phone numbers]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls08_03a">
+                <side daType="t"><![CDATA[<font color="#ff6600">birthdate</font>]]>
+                </side>
+                <side daType="t"><![CDATA[the month, day, and year you were born]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls08_04a">
+                <side daType="t"><![CDATA[<font color="#ff6600">current address</font>]]>
+                </side>
+                <side daType="t"><![CDATA[where you live now]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="10">
+            <item audio="proj1_afc_u05ls10_01">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls10_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a drugstore]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls10_02">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls10_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[expensive]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u05ls10_03">
+                <side daType="i"><![CDATA[proj1_ifc_u05ls10_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a sore throat]]>
+                </side>
+            </item>
+        </lesson>
+    </unit>
+    <unit no="6">
+        <lesson no= "1">
+            <item audio="proj1_afc_u06ls01_01">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls01_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[forms of id]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls01_02">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls01_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an identification card]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls01_03">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls01_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a Social Security card]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls01_04">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls01_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a driver's license]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls01_05">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls01_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a passport]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls01_06">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls01_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a health insurance card]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="4">
+            <item audio="proj1_afc_u06ls04_01">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls04_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a waiting room]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls04_02">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls04_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an examining table]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls04_03">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls04_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a stethoscope]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls04_04">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls04_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a flashlight]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls05_01">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls05_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[exhausted]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="5">
+            <item audio="proj1_afc_u06ls05_02">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls05_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[throat]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls05_03">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls05_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[cough medicine]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls05_04">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls05_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a thermometer]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls05_05">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls05_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[chills]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="6">
+            <item audio="proj1_afc_u06ls06_01">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls06_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a pharmacist]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls06_02">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls06_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[liquid]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls06_03">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls06_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[tablets]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls06_04">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls06_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[drowsy]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="7">
+            <item audio="proj1_afc_u06ls07_01">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls07_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a pain reliever]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls07_02">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls07_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[capsules]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls07_03">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls07_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an expiration date]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls07_04">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls07_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a backache]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls07_05">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls07_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a toothache]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="8">
+            <item audio="proj1_afc_u06ls08_01">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls08_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[rest]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls08_02">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls08_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[tea]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls08_03">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls08_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[worried]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="10">
+            <item audio="proj1_afc_u06ls10_01">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls10_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[sneezing]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls10_02">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls10_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[dangerous]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u06ls10_03">
+                <side daType="i"><![CDATA[proj1_ifc_u06ls10_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[spices]]>
+                </side>
+            </item>
+        </lesson>
+    </unit>
+    <unit no="7">
+        <lesson no= "1">
+            <item audio="proj1_afc_u07ls01_01">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls01_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an apartment]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls01_02">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls01_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a condominium]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls01_03">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls01_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a house]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls01_04">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls01_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[painters]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="3">
+            <item audio="proj1_afc_u07ls03_01">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls03_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[bedroom]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls03_02">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls03_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[bathroom]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls03_03">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls03_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[living room]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls03_04">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls03_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[dining room]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls03_05">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls03_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[kitchen]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls03_06">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls03_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[washer and dryer]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls03_07">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls03_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[utilities]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="4">
+            <item audio="proj1_afc_u07ls04_01">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls04_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[quiet]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls04_02">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls04_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[friendly]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls04_03">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls04_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[expensive]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="6">
+            <item audio="proj1_afc_u07ls06_01">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls06_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a compass]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls06_02">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls06_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[exit]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls06_03">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls06_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[left]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls06_04">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls06_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[right]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls06_05">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls06_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[straight]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="8">
+            <item audio="proj1_afc_u07ls08_01">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls08_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a stove]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls08_02">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls08_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a refrigerator]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls08_03">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls08_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a dishwasher]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls08_04">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls08_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a bathtub]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls08_05">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls08_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a shower]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls08_06">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls08_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a window]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls08_07">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls08_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a closet]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="11">
+            <item audio="proj1_afc_u07ls11_01">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls11_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a couch]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls11_02">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls11_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[surf]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls11_03">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls11_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[travel]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls11_04">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls11_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a hotel]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="12">
+            <item audio="proj1_afc_u07ls12_01">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls12_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[wear clean and neat clothes]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls12_02">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls12_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[shake hands]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls12_03">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls12_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[smile]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls12_04">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls12_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[make eye contact]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls12_05">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls12_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[sit up straight]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u07ls12_06">
+                <side daType="i"><![CDATA[proj1_ifc_u07ls12_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[put your hands in your lap]]>
+                </side>
+            </item>
+        </lesson>
+    </unit>
+    <unit no="8">
+        <lesson no= "1">
+            <item audio="proj1_afc_u08ls01_01">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls01_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a subway]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls01_02">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls01_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a bus]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls01_03">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls01_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[arrive]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls01_04">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls01_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[miss]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="2">
+            <item audio="proj1_afc_u08ls02_01">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls02_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[take inventory]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls02_02">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls02_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[operate a forklift]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls02_03">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls02_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[stock]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls02_04">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls02_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a promotion]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="4">
+            <item audio="proj1_afc_u08ls04_01">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls04_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a baseball game]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls04_02">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls04_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a concert]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls04_03">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls04_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a gym]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls04_04">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls04_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a movie]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls04_05">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls04_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a museum]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls04_06">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls04_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a party]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls04_07">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls04_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a restaurant]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="7">
+            <item audio="proj1_afc_u08ls07_01">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls07_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a bus stop]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls07_02">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls07_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an express bus]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls07_03">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls07_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[get on]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls07_04">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls07_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[get off]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls07_05">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls07_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a fare card]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="9">
+            <item audio="proj1_afc_u08ls09_01">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls09_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[lettuce]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls09_02">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls09_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[spinach]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls09_03">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls09_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[avocados]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls09_04">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls09_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[celery]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u08ls09_05">
+                <side daType="i"><![CDATA[proj1_ifc_u08ls09_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[corn]]>
+                </side>
+            </item>
+        </lesson>
+    </unit>
+    <unit no="9">
+        <lesson no= "1">
+            <item audio="proj1_afc_u09ls01_01">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls01_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a custodian]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls01_02">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls01_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a hotel]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls01_03">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls01_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[celebrate]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls01_04">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls01_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a hospital]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="2">
+            <item audio="proj1_afc_u09ls02_01">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls02_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a lock]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls02_02">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls02_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a faucet]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls02_03">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls02_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a leak]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls02_04">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls02_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[cracked]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls02_05">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls02_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a toilet]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls02_06">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls02_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[fix]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls02_07">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls02_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a sink]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls02_08">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls02_08.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[water damage]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls02_09">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls02_09.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[moldy]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls02_10">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls02_10.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[stuck]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="7">
+            <item audio="proj1_afc_u09ls07_01">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls07_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[chest pains]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls07_02">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls07_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[choking]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls07_03">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls07_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[unconscious]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls07_04">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls07_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[an ambulance]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls07_05">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls07_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[paramedics]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="9">
+            <item audio="proj1_afc_u09ls09_01">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls09_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[gloves]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls09_04">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls09_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[fire]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls09_05">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls09_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[wash your hands]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="11">
+            <item audio="proj1_afc_u09ls11_01">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls11_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[firefighters]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls11_02">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls11_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[police]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls11_03">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls11_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a serious medical problem]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls11_04">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls11_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a robbery]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u09ls11_05">
+                <side daType="i"><![CDATA[proj1_ifc_u09ls11_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a flat tire]]>
+                </side>
+            </item>
+        </lesson>
+    </unit>
+    <unit no="10">
+        <lesson no= "1">
+            <item audio="proj1_afc_u10ls01_01">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls01_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[shorts]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls01_02">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls01_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a belt]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls01_03">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls01_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[jeans]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls01_04">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls01_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[pajamas]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls01_05">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls01_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a dress]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls01_06">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls01_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a coat]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls01_07">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls01_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[sandals]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls01_08">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls01_08.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[socks]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="3">
+            <item audio="proj1_afc_u10ls03_01">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls03_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a sweater]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls03_02">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls03_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[shoes]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls03_03">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls03_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[underwear]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls03_04">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls03_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a skirt]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls03_05">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls03_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[pants]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls03_06">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls03_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a T-shirt]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="4">
+            <item audio="proj1_afc_u10ls04_01">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls04_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[pantyhose]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls04_02">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls04_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[batteries]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls04_03">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls04_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[dish towels]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls04_04">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls04_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a gift card]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="6">
+            <item audio="proj1_afc_u10ls06_01">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls06_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[grilled chicken]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls06_02">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls06_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[cheese]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls06_03">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls06_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[fish]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls06_04">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls06_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[apple pie]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls06_05">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls06_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[cheesecake]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="7">
+            <item audio="proj1_afc_u10ls07_01">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls07_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[grilled shrimp]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls07_02">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls07_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[with tomato sauce]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls07_03">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls07_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[fruit salad]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls07_04">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls07_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[garlic]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls07_05">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls07_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[spinach salad]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls07_06">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls07_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[carrot salad]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls07_07">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls07_07.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[containers]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="8">
+            <item audio="proj1_afc_u10ls08_01">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls08_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a party]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls08_02">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls08_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a surprise]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls08_03">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls08_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a cake]]>
+                </side>
+            </item>
+        </lesson>
+        <lesson no="11">
+            <item audio="proj1_afc_u10ls11_01">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls11_01.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[dine]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls11_02">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls11_02.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[smell]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls11_03">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls11_03.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[taste]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls11_04">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls11_04.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[touch]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls11_05">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls11_05.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a candle]]>
+                </side>
+            </item>
+            <item audio="proj1_afc_u10ls11_06">
+                <side daType="i"><![CDATA[proj1_ifc_u10ls11_06.jpg]]>
+                </side>
+                <side daType="t"><![CDATA[a lighter]]>
+                </side>
+            </item>
+        </lesson>
+    </unit>
+</root>

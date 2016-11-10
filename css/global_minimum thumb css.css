@@ -1,0 +1,250 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+body {
+	background-color: grey;	
+}
+
+
+@media screen and (max-width: 960px) {
+	body {
+		background-color: red;	
+	}
+}
+
+@media screen and (max-width: 768px) {
+	body {
+		background-color: orange;	
+	}
+}
+
+@media screen and (max-width: 550px) {
+	body {
+		background-color: yellow;	
+	}
+}
+
+@media screen and (max-width: 320px) {
+	body {
+		background-color: green;	
+	}
+}
+
+
+/* MAIN CSS */
+#wrapper {
+    background-color: #CCE6FF;
+    border-color: #0099CC;
+    border-style: double;
+    border-width: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 1000px;
+    position: relative;
+    width: 55%;
+	height: 48em;
+}
+
+/* Buttons */
+header {
+	border-bottom-style: groove;
+    margin-top: 0.5em;
+    padding-bottom: 0.5em;
+    position: relative;
+}
+
+input {
+    margin-left: 1em;
+
+    width: 100px;
+}
+	#face {
+	}
+	
+	#shuffle {
+		position: absolute;
+	}
+	
+	#hide {
+		left: -3em;
+		position: relative;
+		top: 52em;
+	}
+	
+	#audiop {
+		left: 44em;
+		position: relative;
+		top: 5em;
+	}
+	
+	#previous {
+		left: 6em;
+		position: relative;
+		top: 45em;
+	}
+	
+	#next {
+		left: 26em;
+		position: relative;
+		top: 45em;
+	}
+	
+	#counter {
+		left: 2em;
+		position: relative;
+		text-align: center;
+		top: 45em;
+	}
+
+/* Drop Downs */
+select {
+    width: 100px;
+}
+
+	#units {
+		left: 45em;
+		position: absolute;
+	}
+	
+	#lessons {
+		left: 54em;
+		position: absolute;
+	}
+
+/* Navigation List */
+
+nav.thumbsMain {
+	border-bottom: medium double steelblue;
+    border-right: medium double steelblue;	
+	overflow: auto;
+	width: 20em;
+	height: 80%;
+}
+
+li.isOn {
+	border: thick ridge;
+    display: block;
+    margin-top: 4em;
+    text-align: center;
+	padding: 0.5em;
+    width: 88%;
+	position: relative;
+	left:-1em;
+}
+
+li.isOff {
+    display: none;
+	margin-top: 2em;
+	width: 88%;
+}
+li:hover {
+    cursor: pointer;
+}
+
+.imgThumb {
+	/*
+	border: thick ridge;
+	margin-left: auto;
+    margin-right: auto;
+    position: relative;
+	*/
+	/*
+	left: 30%;
+	*/
+	/*padding: 0.5em;*/
+	/*position: relative;*/
+}
+
+.textThumb {	
+/*	border: thin dashed;
+    margin-left: auto;
+    margin-right: auto;
+	left: 10%;
+*/
+   /*position: relative;*/
+}
+
+.empty {
+	display:none;
+}
+
+/* Content */
+
+section {	
+	border: 2px solid #000000;
+	margin-left: 40%;
+    height: 400px;
+	/*width: 548px;*/
+	width: auto;
+	position: absolute;
+	top: 20%;
+	/*left: 42%;*/
+    text-align:center;
+}
+
+#center img:hover, span:hover {
+    cursor: pointer;
+}
+
+img {
+	max-width: 100%;
+	min-width: 100%;
+	
+}
+
+/*
+#theImages {
+	width: 30%;
+	
+}
+*/
+
+span.theText {
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: larger;
+
+	margin:auto; 
+	
+	height:260px; 
+	width:90%;
+	
+	position:absolute; 
+	top:0; 
+	bottom:0; 
+	left:0; 
+	right:0;
+       
+    text-align: center;
+    vertical-align: middle;		
+	
+	overflow:auto;
+	
+}
+
+/*
+span.thumbsText {
+	width:50px;
+	height:80px;
+	word-wrap:break-word;
+}
+
+*/
+
+
+
+.progress-indicator {
+    background-color: white;
+    display: none;
+    height: 100%;
+    opacity: 0.5;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+.progress-indicator img {
+    margin-top: 75px;
+}

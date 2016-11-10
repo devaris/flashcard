@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <unit no="1"><lesson no="2"><item audio="proj2_afc_u01ls02_01"><side daType="t"><![CDATA[1st]]></side><side daType="t"><![CDATA[<font color="#9d1348">first</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_02"><side daType="t"><![CDATA[2nd]]></side><side daType="t"><![CDATA[<font color="#9d1348">second</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_03"><side daType="t"><![CDATA[3rd]]></side><side daType="t"><![CDATA[<font color="#9d1348">third</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_04"><side daType="t"><![CDATA[4th]]></side><side daType="t"><![CDATA[<font color="#9d1348">fourth</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_05"><side daType="t"><![CDATA[5th]]></side><side daType="t"><![CDATA[<font color="#9d1348">fifth</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_06"><side daType="t"><![CDATA[6th]]></side><side daType="t"><![CDATA[<font color="#9d1348">sixth</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_07"><side daType="t"><![CDATA[7th]]></side><side daType="t"><![CDATA[<font color="#9d1348">seventh</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_08"><side daType="t"><![CDATA[8th]]></side><side daType="t"><![CDATA[<font color="#9d1348">eighth</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_09"><side daType="t"><![CDATA[9th]]></side><side daType="t"><![CDATA[<font color="#9d1348">ninth</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_10"><side daType="t"><![CDATA[10th]]></side><side daType="t"><![CDATA[<font color="#9d1348">tenth</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_11"><side daType="t"><![CDATA[11th]]></side><side daType="t"><![CDATA[<font color="#9d1348">eleventh</font>]]></side></item>
+<item audio="proj2_afc_u01ls02_12"><side daType="t"><![CDATA[12th]]></side><side daType="t"><![CDATA[<font color="#9d1348">twelfth</font>]]></side></item>
+</lesson><lesson no="3"><item audio="proj2_afc_u01ls03_01"><side daType="i"><![CDATA[proj2_ifc_u01ls03_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">math</font>]]></side></item>
+<item audio="proj2_afc_u01ls03_02"><side daType="i"><![CDATA[proj2_ifc_u01ls03_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">English</font>]]></side></item>
+<item audio="proj2_afc_u01ls03_03"><side daType="i"><![CDATA[proj2_ifc_u01ls03_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">history</font>]]></side></item>
+<item audio="proj2_afc_u01ls03_04"><side daType="i"><![CDATA[proj2_ifc_u01ls03_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">art</font>]]></side></item>
+<item audio="proj2_afc_u01ls03_05"><side daType="i"><![CDATA[proj2_ifc_u01ls03_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">spelling</font>]]></side></item>
+<item audio="proj2_afc_u01ls03_06"><side daType="i"><![CDATA[proj2_ifc_u01ls03_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">science</font>]]></side></item>
+<item audio="proj2_afc_u01ls03_07"><side daType="i"><![CDATA[proj2_ifc_u01ls03_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">reading</font>]]></side></item>
+</lesson><lesson no="5"><item audio="proj2_afc_u01ls05_01"><side daType="i"><![CDATA[proj2_ifc_u01ls05_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">mugs</font>]]></side></item>
+<item audio="proj2_afc_u01ls05_02"><side daType="i"><![CDATA[proj2_ifc_u01ls05_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">tissues</font>]]></side></item>
+<item audio="proj2_afc_u01ls05_03"><side daType="i"><![CDATA[proj2_ifc_u01ls05_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">toilet paper</font>]]></side></item>
+<item audio="proj2_afc_u01ls05_04"><side daType="i"><![CDATA[proj2_ifc_u01ls05_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">shampoo</font>]]></side></item>
+<item audio="proj2_afc_u01ls05_05"><side daType="i"><![CDATA[proj2_ifc_u01ls05_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">sugar</font>]]></side></item>
+<item audio="proj2_afc_u01ls05_06"><side daType="i"><![CDATA[proj2_ifc_u01ls05_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">glasses</font>]]></side></item>
+</lesson><lesson no="7"><item audio="proj2_afc_u01ls07_01"><side daType="i"><![CDATA[proj2_ifc_u01ls07_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a front desk</font>]]></side></item>
+<item audio="proj2_afc_u01ls07_02"><side daType="i"><![CDATA[proj2_ifc_u01ls07_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">forget</font>]]></side></item>
+<item audio="proj2_afc_u01ls07_03"><side daType="i"><![CDATA[proj2_ifc_u01ls07_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">remember</font>]]></side></item>
+<item audio="proj2_afc_u01ls07_04"><side daType="i"><![CDATA[proj2_ifc_u01ls07_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a closet</font>]]></side></item>
+<item audio="proj2_afc_u01ls07_05"><side daType="i"><![CDATA[proj2_ifc_u01ls07_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">toiletries</font>]]></side></item>
+<item audio="proj2_afc_u01ls07_06"><side daType="i"><![CDATA[proj2_ifc_u01ls07_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a hand towel</font>]]></side></item>
+<item audio="proj2_afc_u01ls07_07"><side daType="i"><![CDATA[proj2_ifc_u01ls07_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a wash cloth</font>]]></side></item>
+</lesson><lesson no="9"><item audio="proj2_afc_u01ls09_01"><side daType="i"><![CDATA[proj2_ifc_u01ls09_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a fitness center</font>]]></side></item>
+<item audio="proj2_afc_u01ls09_02"><side daType="i"><![CDATA[proj2_ifc_u01ls09_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a pool</font>]]></side></item>
+<item audio="proj2_afc_u01ls09_03"><side daType="i"><![CDATA[proj2_ifc_u01ls09_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">smoking</font>]]></side></item>
+<item audio="proj2_afc_u01ls09_04"><side daType="i"><![CDATA[proj2_ifc_u01ls09_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">pets</font>]]></side></item>
+<item audio="proj2_afc_u01ls09_05"><side daType="i"><![CDATA[proj2_ifc_u01ls09_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">dive</font>]]></side></item>
+<item audio="proj2_afc_u01ls09_06"><side daType="i"><![CDATA[proj2_ifc_u01ls09_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a neighborhood</font>]]></side></item>
+<item audio="proj2_afc_u01ls09_07"><side daType="i"><![CDATA[proj2_ifc_u01ls09_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a.m.</font>]]></side></item>
+<item audio="proj2_afc_u01ls09_08"><side daType="i"><![CDATA[proj2_ifc_u01ls09_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">p.m.</font>]]></side></item>
+</lesson><lesson no="10"><item audio="proj2_afc_u01ls10_01"><side daType="i"><![CDATA[proj2_ifc_u01ls10_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a daycare center</font>]]></side></item>
+<item audio="proj2_afc_u01ls10_02"><side daType="i"><![CDATA[proj2_ifc_u01ls10_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">24 hours</font>]]></side></item>
+<item audio="proj2_afc_u01ls10_03"><side daType="i"><![CDATA[proj2_ifc_u01ls10_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a nurse</font>]]></side></item>
+<item audio="proj2_afc_u01ls10_04"><side daType="i"><![CDATA[proj2_ifc_u01ls10_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">chicken nuggets</font>]]></side></item>
+</lesson><lesson no="11"><item audio="proj2_afc_u01ls11_01"><side daType="i"><![CDATA[proj2_ifc_u01ls11_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Go straight.</font>]]></side></item>
+<item audio="proj2_afc_u01ls11_02"><side daType="i"><![CDATA[proj2_ifc_u01ls11_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Turn right.</font>]]></side></item>
+<item audio="proj2_afc_u01ls11_03"><side daType="i"><![CDATA[proj2_ifc_u01ls11_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Turn left.</font>]]></side></item>
+<item audio="proj2_afc_u01ls11_04"><side daType="i"><![CDATA[proj2_ifc_u01ls11_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Go through.</font>]]></side></item>
+<item audio="proj2_afc_u01ls11_05"><side daType="i"><![CDATA[proj2_ifc_u01ls11_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Go past.</font>]]></side></item>
+<item audio="proj2_afc_u01ls11_06"><side daType="i"><![CDATA[proj2_ifc_u01ls11_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Go up.</font>]]></side></item>
+<item audio="proj2_afc_u01ls11_07"><side daType="i"><![CDATA[proj2_ifc_u01ls11_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Go down.</font>]]></side></item>
+<item audio="proj2_afc_u01ls11_08"><side daType="i"><![CDATA[proj2_ifc_u01ls11_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Take the elevator.</font>]]></side></item>
+</lesson><lesson no="12"><item audio="proj2_afc_u01ls12_01"><side daType="i"><![CDATA[proj2_ifc_u01ls12_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a handyman</font>]]></side></item>
+<item audio="proj2_afc_u01ls12_02"><side daType="i"><![CDATA[proj2_ifc_u01ls12_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">medical benefits</font>]]></side></item>
+<item audio="proj2_afc_u01ls12_03"><side daType="i"><![CDATA[proj2_ifc_u01ls12_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">indoor</font>]]></side></item>
+<item audio="proj2_afc_u01ls12_04"><side daType="i"><![CDATA[proj2_ifc_u01ls12_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">outdoor</font>]]></side></item>
+<item audio="proj2_afc_u01ls12_05"><side daType="i"><![CDATA[proj2_ifc_u01ls12_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">weekends</font>]]></side></item>
+<item audio="proj2_afc_u01ls12_06"><side daType="i"><![CDATA[proj2_ifc_u01ls12_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">weekdays</font>]]></side></item>
+</lesson></unit><unit no="2"><lesson no= "1"><item audio="proj2_afc_u02ls01_02"><side daType="i"><![CDATA[proj2_ifc_u02ls01_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">stopped up</font>]]></side></item>
+<item audio="proj2_afc_u02ls01_03"><side daType="i"><![CDATA[proj2_ifc_u02ls01_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a faucet</font>]]></side></item>
+<item audio="proj2_afc_u02ls01_04"><side daType="i"><![CDATA[proj2_ifc_u02ls01_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">dripping</font>]]></side></item>
+<item audio="proj2_afc_u02ls01_05"><side daType="i"><![CDATA[proj2_ifc_u02ls01_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">leaking</font>]]></side></item>
+<item audio="proj2_afc_u02ls01_06"><side daType="i"><![CDATA[proj2_ifc_u02ls01_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">maintenance</font>]]></side></item>
+<item audio="proj2_afc_u02ls01_07"><side daType="i"><![CDATA[proj2_ifc_u02ls01_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a view</font>]]></side></item>
+<item audio="proj2_afc_u02ls01_08"><side daType="i"><![CDATA[proj2_ifc_u02ls01_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a bathtub</font>]]></side></item>
+<item audio="proj2_afc_u02ls01_09"><side daType="i"><![CDATA[proj2_ifc_u02ls01_09.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a shower</font>]]></side></item>
+</lesson><lesson no="3"><item audio="proj2_afc_u02ls03_01"><side daType="i"><![CDATA[proj2_ifc_u02ls03_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">suitcases</font>]]></side></item>
+<item audio="proj2_afc_u02ls03_02"><side daType="i"><![CDATA[proj2_ifc_u02ls03_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">luggage</font>]]></side></item>
+<item audio="proj2_afc_u02ls03_03"><side daType="i"><![CDATA[proj2_ifc_u02ls03_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a suit</font>]]></side></item>
+<item audio="proj2_afc_u02ls03_05"><side daType="i"><![CDATA[proj2_ifc_u02ls03_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">lotion</font>]]></side></item>
+<item audio="proj2_afc_u02ls03_06"><side daType="i"><![CDATA[proj2_ifc_u02ls03_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">check in</font>]]></side></item>
+<item audio="proj2_afc_u02ls03_07"><side daType="i"><![CDATA[proj2_ifc_u02ls03_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">check out</font>]]></side></item>
+<item audio="proj2_afc_u02ls03_08"><side daType="i"><![CDATA[proj2_ifc_u02ls03_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a coat</font>]]></side></item>
+<item audio="proj2_afc_u02ls03_09"><side daType="i"><![CDATA[proj2_ifc_u02ls03_09.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a belt</font>]]></side></item>
+</lesson><lesson no="4"><item audio="proj2_afc_u02ls04_01"><side daType="i"><![CDATA[proj2_ifc_u02ls04_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a dollar bill</font>]]></side></item>
+<item audio="proj2_afc_u02ls04_02"><side daType="i"><![CDATA[proj2_ifc_u02ls04_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a five dollar bill</font>]]></side></item>
+<item audio="proj2_afc_u02ls04_03"><side daType="i"><![CDATA[proj2_ifc_u02ls04_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a ten dollar bill</font>]]></side></item>
+<item audio="proj2_afc_u02ls04_04"><side daType="i"><![CDATA[proj2_ifc_u02ls04_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a twenty dollar bill</font>]]></side></item>
+<item audio="proj2_afc_u02ls04_05"><side daType="i"><![CDATA[proj2_ifc_u02ls04_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a fifty dollar bill</font>]]></side></item>
+<item audio="proj2_afc_u02ls04_06"><side daType="i"><![CDATA[proj2_ifc_U02ls04_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">coins</font>]]></side></item>
+</lesson><lesson no="5"><item audio="proj2_afc_u02ls05_01"><side daType="i"><![CDATA[proj2_ifc_u02ls05_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">delicious</font>]]></side></item>
+<item audio="proj2_afc_u02ls05_02"><side daType="i"><![CDATA[proj2_ifc_u02ls05_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">popular</font>]]></side></item>
+<item audio="proj2_afc_u02ls05_03"><side daType="i"><![CDATA[proj2_ifc_u02ls05_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">crowded</font>]]></side></item>
+<item audio="proj2_afc_u02ls05_04"><side daType="i"><![CDATA[proj2_ifc_u02ls05_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">downtown</font>]]></side></item>
+<item audio="proj2_afc_u02ls05_05"><side daType="i"><![CDATA[proj2_ifc_u02ls05_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">service</font>]]></side></item>
+<item audio="proj2_afc_u02ls05_06"><side daType="i"><![CDATA[proj2_ifc_u02ls05_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">in the mall</font>]]></side></item>
+</lesson><lesson no="8"><item audio="proj2_afc_u02ls08_01"><side daType="i"><![CDATA[proj2_ifc_u02ls08_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">on Grove Street</font>]]></side></item>
+<item audio="proj2_afc_u02ls08_02"><side daType="i"><![CDATA[proj2_ifc_u02ls08_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">across from</font>]]></side></item>
+<item audio="proj2_afc_u02ls08_03"><side daType="i"><![CDATA[proj2_ifc_u02ls08_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">next to</font>]]></side></item>
+<item audio="proj2_afc_u02ls08_04"><side daType="i"><![CDATA[proj2_ifc_u02ls08_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">on the corner</font>]]></side></item>
+<item audio="proj2_afc_u02ls08_05"><side daType="i"><![CDATA[proj2_ifc_u02ls08_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a gas station</font>]]></side></item>
+<item audio="proj2_afc_u02ls08_06"><side daType="i"><![CDATA[proj2_ifc_u02ls08_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a café </font>]]></side></item>
+<item audio="proj2_afc_u02ls08_07"><side daType="i"><![CDATA[proj2_ifc_u02ls08_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a train station</font>]]></side></item>
+<item audio="proj2_afc_u02ls08_08"><side daType="i"><![CDATA[proj2_ifc_u02ls08_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a bus station</font>]]></side></item>
+</lesson><lesson no="9"><item audio="proj2_afc_u02ls09_01"><side daType="i"><![CDATA[proj2_ifc_u02ls09_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">curly hair</font>]]></side></item>
+<item audio="proj2_afc_u02ls09_03"><side daType="i"><![CDATA[proj2_ifc_u02ls09_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">blue eyes</font>]]></side></item>
+<item audio="proj2_afc_u02ls09_04"><side daType="i"><![CDATA[proj2_ifc_u02ls09_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">straight hair</font>]]></side></item>
+<item audio="proj2_afc_u02ls09_05"><side daType="i"><![CDATA[proj2_ifc_u02ls09_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">blond hair</font>]]></side></item>
+<item audio="proj2_afc_u02ls09_07"><side daType="i"><![CDATA[proj2_ifc_u02ls09_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a lobby</font>]]></side></item>
+</lesson><lesson no="11"><item audio="proj2_afc_u02ls11_01"><side daType="t"><![CDATA[general]]></side><side daType="t"><![CDATA[<font color="#9d1348">not detailed</font</font>]]></side></item>
+<item audio="proj2_afc_u02ls11_02"><side daType="t"><![CDATA[honest]]></side><side daType="t"><![CDATA[<font color="#9d1348">truthful</font</font>]]></side></item>
+<item audio="proj2_afc_u02ls11_03"><side daType="t"><![CDATA[positive]]></side><side daType="t"><![CDATA[<font color="#9d1348">seeing the good things</font</font>]]></side></item>
+<item audio="proj2_afc_u02ls11_04"><side daType="t"><![CDATA[responsible]]></side><side daType="t"><![CDATA[<font color="#9d1348">taking care of something</font</font>]]></side></item>
+<item audio="proj2_afc_u02ls11_05"><side daType="t"><![CDATA[task]]></side><side daType="t"><![CDATA[<font color="#9d1348">a piece of work</font</font>]]></side></item>
+</lesson><lesson no="12"><item audio="proj2_afc_u02ls12_01"><side daType="i"><![CDATA[proj2_ifc_u02ls12_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">fix plumbing</font>]]></side></item>
+<item audio="proj2_afc_u02ls12_02"><side daType="i"><![CDATA[proj2_ifc_u02ls12_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">fix electrical problems</font>]]></side></item>
+<item audio="proj2_afc_u02ls12_03"><side daType="i"><![CDATA[proj2_ifc_u02ls12_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">paint</font>]]></side></item>
+<item audio="proj2_afc_u02ls12_04"><side daType="i"><![CDATA[proj2_ifc_u02ls12_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">do carpentry</font>]]></side></item>
+<item audio="proj2_afc_u02ls12_05"><side daType="i"><![CDATA[proj2_ifc_u02ls12_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">patch holes in walls</font>]]></side></item>
+<item audio="proj2_afc_u02ls12_06"><side daType="i"><![CDATA[proj2_ifc_u02ls12_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">build walls</font>]]></side></item>
+<item audio="proj2_afc_u02ls12_07"><side daType="i"><![CDATA[proj2_ifc_U02ls12_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">communicate with people</font>]]></side></item>
+</lesson></unit><unit no="3"><lesson no= "1"><item audio="proj2_afc_u03ls01_01"><side daType="i"><![CDATA[proj2_ifc_u03ls01_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">sleep in </font>]]></side></item>
+<item audio="proj2_afc_u03ls01_02"><side daType="i"><![CDATA[proj2_ifc_u03ls01_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">dancing</font>]]></side></item>
+<item audio="proj2_afc_u03ls01_03"><side daType="i"><![CDATA[proj2_ifc_u03ls01_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">soccer practice</font>]]></side></item>
+<item audio="proj2_afc_u03ls01_04"><side daType="i"><![CDATA[proj2_ifc_u03ls01_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">food shopping</font>]]></side></item>
+<item audio="proj2_afc_u03ls01_05"><side daType="i"><![CDATA[proj2_ifc_u03ls01_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">put the groceries away</font>]]></side></item>
+<item audio="proj2_afc_u03ls01_06"><side daType="i"><![CDATA[proj2_ifc_u03ls01_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">do the laundry</font>]]></side></item>
+<item audio="proj2_afc_u03ls01_07"><side daType="i"><![CDATA[proj2_ifc_u03ls01_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">do the dishes</font>]]></side></item>
+<item audio="proj2_afc_u03ls01_08"><side daType="i"><![CDATA[proj2_ifc_u03ls01_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">bowling</font>]]></side></item>
+</lesson><lesson no="3"><item audio="proj2_afc_u03ls03_01"><side daType="i"><![CDATA[proj2_ifc_u03ls03_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Keep your feet apart.</font>]]></side></item>
+<item audio="proj2_afc_u03ls03_02"><side daType="i"><![CDATA[proj2_ifc_u03ls03_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Bend your knees.</font>]]></side></item>
+<item audio="proj2_afc_u03ls03_03"><side daType="i"><![CDATA[proj2_ifc_u03ls03_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Keep your back straight.</font>]]></side></item>
+<item audio="proj2_afc_u03ls03_04"><side daType="i"><![CDATA[proj2_ifc_u03ls03_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Don't bend your back.</font>]]></side></item>
+<item audio="proj2_afc_u03ls03_05"><side daType="i"><![CDATA[proj2_ifc_u03ls03_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Lift with your legs.</font>]]></side></item>
+<item audio="proj2_afc_u03ls03_06"><side daType="i"><![CDATA[proj2_ifc_u03ls03_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Don't turn or twist your body.</font>]]></side></item>
+<item audio="proj2_afc_u03ls03_07"><side daType="i"><![CDATA[proj2_ifc_u03ls03_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Put it down.</font>]]></side></item>
+<item audio="proj2_afc_u03ls03_08"><side daType="i"><![CDATA[proj2_ifc_u03ls03_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an emergency exit</font>]]></side></item>
+</lesson><lesson no="5"><item audio="proj2_afc_u03ls05_01"><side daType="i"><![CDATA[proj2_ifc_u03ls05_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">for rent</font>]]></side></item>
+<item audio="proj2_afc_u03ls05_02"><side daType="i"><![CDATA[proj2_ifc_u03ls05_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a lease</font>]]></side></item>
+<item audio="proj2_afc_u03ls05_03"><side daType="i"><![CDATA[proj2_ifc_u03ls05_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a one bedroom apartment</font>]]></side></item>
+<item audio="proj2_afc_u03ls05_04"><side daType="i"><![CDATA[proj2_ifc_u03ls05_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a two bedroom apartment</font>]]></side></item>
+<item audio="proj2_afc_u03ls05_06"><side daType="i"><![CDATA[proj2_ifc_u03ls05_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a bus stop</font>]]></side></item>
+<item audio="proj2_afc_u03ls05_07"><side daType="i"><![CDATA[proj2_ifc_u03ls05_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a subway station</font>]]></side></item>
+<item audio="proj2_afc_u03ls05_08"><side daType="i"><![CDATA[proj2_ifc_u03ls05_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a ferry</font>]]></side></item>
+<item audio="proj2_afc_u03ls05_09"><side daType="i"><![CDATA[proj2_ifc_u03ls05_09.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a farmer's market</font>]]></side></item>
+</lesson><lesson no="6"><item audio="proj2_afc_u03ls06_01"><side daType="t"><![CDATA[a trend]]></side><side daType="t"><![CDATA[<font color="#9d1348">a new fashion</font>]]></side></item>
+<item audio="proj2_afc_u03ls06_03"><side daType="t"><![CDATA[vertical]]></side><side daType="t"><![CDATA[<font color="#9d1348">pointing straight up</font>]]></side></item>
+<item audio="proj2_afc_u03ls06_05"><side daType="t"><![CDATA[a solution]]></side><side daType="t"><![CDATA[<font color="#9d1348">a way to fix a problem</font>]]></side></item>
+<item audio="proj2_afc_u03ls06_07"><side daType="t"><![CDATA[a container]]></side><side daType="t"><![CDATA[<font color="#9d1348">something to put things into</font>]]></side></item>
+<item audio="proj2_afc_u03ls06_09"><side daType="t"><![CDATA[decorate]]></side><side daType="t"><![CDATA[<font color="#9d1348">make pretty</font>]]></side></item>
+<item audio="proj2_afc_u03ls06_11"><side daType="t"><![CDATA[incredible]]></side><side daType="t"><![CDATA[<font color="#9d1348">very good</font>]]></side></item>
+</lesson><lesson no="7"><item audio="proj2_afc_u03ls07_01"><side daType="t"><![CDATA[apt.]]></side><side daType="t"><![CDATA[<font color="#9d1348">apartment</font>]]></side></item>
+<item audio="proj2_afc_u03ls07_02"><side daType="t"><![CDATA[BR]]></side><side daType="t"><![CDATA[<font color="#9d1348">bedroom</font>]]></side></item>
+<item audio="proj2_afc_u03ls07_03"><side daType="t"><![CDATA[BA]]></side><side daType="t"><![CDATA[<font color="#9d1348">bathroom</font>]]></side></item>
+<item audio="proj2_afc_u03ls07_04"><side daType="t"><![CDATA[DR]]></side><side daType="t"><![CDATA[<font color="#9d1348">dining room</font>]]></side></item>
+<item audio="proj2_afc_u03ls07_05"><side daType="t"><![CDATA[EIK]]></side><side daType="t"><![CDATA[<font color="#9d1348">eat-in-kitchen</font>]]></side></item>
+<item audio="proj2_afc_u03ls07_06"><side daType="t"><![CDATA[incl.]]></side><side daType="t"><![CDATA[<font color="#9d1348">included</font>]]></side></item>
+<item audio="proj2_afc_u03ls07_07"><side daType="t"><![CDATA[w.]]></side><side daType="t"><![CDATA[<font color="#9d1348">with</font>]]></side></item>
+<item audio="proj2_afc_u03ls07_08"><side daType="t"><![CDATA[mo.]]></side><side daType="t"><![CDATA[<font color="#9d1348">month</font>]]></side></item>
+<item audio="proj2_afc_u03ls07_09"><side daType="t"><![CDATA[A/C]]></side><side daType="t"><![CDATA[<font color="#9d1348">air conditioning</font>]]></side></item>
+<item audio="proj2_afc_u03ls07_10"><side daType="t"><![CDATA[prkg.]]></side><side daType="t"><![CDATA[<font color="#9d1348">parking</font>]]></side></item>
+</lesson><lesson no="8"><item audio="proj2_afc_u03ls08_01"><side daType="i"><![CDATA[proj2_ifc_u03ls08_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">gas</font>]]></side></item>
+<item audio="proj2_afc_u03ls08_02"><side daType="i"><![CDATA[proj2_ifc_u03ls08_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">electric</font>]]></side></item>
+<item audio="proj2_afc_u03ls08_03"><side daType="i"><![CDATA[proj2_ifc_u03ls08_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">heat</font>]]></side></item>
+<item audio="proj2_afc_u03ls08_04"><side daType="i"><![CDATA[proj2_ifc_u03ls08_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">hot water</font>]]></side></item>
+<item audio="proj2_afc_u03ls08_05"><side daType="i"><![CDATA[proj2_ifc_u03ls08_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a dishwasher</font>]]></side></item>
+<item audio="proj2_afc_u03ls08_06"><side daType="i"><![CDATA[proj2_ifc_u03ls08_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a microwave</font>]]></side></item>
+<item audio="proj2_afc_u03ls08_07"><side daType="i"><![CDATA[proj2_ifc_u03ls08_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a laundry room</font>]]></side></item>
+<item audio="proj2_afc_u03ls08_08"><side daType="i"><![CDATA[proj2_ifc_u03ls08_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">carpeting</font>]]></side></item>
+</lesson><lesson no="10"><item audio="proj2_afc_u03ls10_01"><side daType="t"><![CDATA[call me back]]></side><side daType="t"><![CDATA[<font color="#9d1348">return my call</font>]]></side></item>
+<item audio="proj2_afc_u03ls10_03"><side daType="t"><![CDATA[a realtor]]></side><side daType="t"><![CDATA[<font color="#9d1348">someone who rents or sells homes</font>]]></side></item>
+<item audio="proj2_afc_u03ls10_05"><side daType="t"><![CDATA[I'm available]]></side><side daType="t"><![CDATA[<font color="#9d1348">I'm free</font>]]></side></item>
+<item audio="proj2_afc_u03ls10_07"><side daType="t"><![CDATA[a reservation]]></side><side daType="t"><![CDATA[<font color="#9d1348">a plan you make at a hotel or restaurant</font>]]></side></item>
+</lesson><lesson no="11"><item audio="proj2_afc_u03ls11_01"><side daType="t"><![CDATA[an extension]]></side><side daType="t"><![CDATA[<font color="#9d1348">one of many telephone lines in a big company</font>]]></side></item>
+<item audio="proj2_afc_u03ls11_03"><side daType="t"><![CDATA[an inquiry]]></side><side daType="t"><![CDATA[<font color="#9d1348">a question you ask to get information</font>]]></side></item>
+<item audio="proj2_afc_u03ls11_05"><side daType="t"><![CDATA[an option]]></side><side daType="t"><![CDATA[<font color="#9d1348">a choice</font>]]></side></item>
+<item audio="proj2_afc_u03ls11_07"><side daType="t"><![CDATA[an operator]]></side><side daType="t"><![CDATA[<font color="#9d1348">someone who controls the telephone calls</font>]]></side></item>
+</lesson><lesson no="12"><item audio="proj2_afc_u03ls12_01"><side daType="i"><![CDATA[proj2_ifc_u03ls12_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">equipment</font>]]></side></item>
+<item audio="proj2_afc_u03ls12_02"><side daType="i"><![CDATA[proj2_ifc_u03ls12_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a team player</font>]]></side></item>
+<item audio="proj2_afc_u03ls12_03"><side daType="i"><![CDATA[proj2_ifc_u03ls12_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">safety rules</font>]]></side></item>
+<item audio="proj2_afc_u03ls12_04"><side daType="i"><![CDATA[proj2_ifc_u03ls12_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">lift</font>]]></side></item>
+</lesson></unit><unit no="4"><lesson no= "1"><item audio="proj2_afc_u04ls01_01"><side daType="i"><![CDATA[proj2_ifc_u04ls01_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a lake</font>]]></side></item>
+<item audio="proj2_afc_u04ls01_02"><side daType="i"><![CDATA[proj2_ifc_u04ls01_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">baseball</font>]]></side></item>
+<item audio="proj2_afc_u04ls01_03"><side daType="i"><![CDATA[proj2_ifc_u04ls01_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">tennis</font>]]></side></item>
+<item audio="proj2_afc_u04ls01_04"><side daType="i"><![CDATA[proj2_ifc_u04ls01_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">rainy</font>]]></side></item>
+<item audio="proj2_afc_u04ls01_05"><side daType="i"><![CDATA[proj2_ifc_u04ls01_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">windy</font>]]></side></item>
+<item audio="proj2_afc_u04ls01_06"><side daType="i"><![CDATA[proj2_ifc_u04ls01_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a team</font>]]></side></item>
+</lesson><lesson no="3"><item audio="proj2_afc_u04ls03_01"><side daType="i"><![CDATA[proj2_ifc_u04ls03_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a vaccine</font>]]></side></item>
+<item audio="proj2_afc_u04ls03_02"><side daType="i"><![CDATA[proj2_ifc_u04ls03_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a shot</font>]]></side></item>
+<item audio="proj2_afc_u04ls03_03"><side daType="i"><![CDATA[proj2_ifc_u04ls03_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an immunization certificate</font>]]></side></item>
+<item audio="proj2_afc_u04ls03_04"><side daType="i"><![CDATA[proj2_ifc_u04ls03_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a prescription</font>]]></side></item>
+<item audio="proj2_afc_u04ls03_05"><side daType="i"><![CDATA[proj2_ifc_u04ls03_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an elementary school</font>]]></side></item>
+<item audio="proj2_afc_u04ls03_06"><side daType="i"><![CDATA[proj2_ifc_u04ls03_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a day camp</font>]]></side></item>
+</lesson><lesson no="4"><item audio="proj2_afc_u04ls04_01"><side daType="t"><![CDATA[a reminder]]></side><side daType="t"><![CDATA[<font color="#9d1348">a notice to remember something</font>]]></side></item>
+<item audio="proj2_afc_u04ls04_02"><side daType="t"><![CDATA[a confirmation]]></side><side daType="t"><![CDATA[<font color="#9d1348">a statement saying that something is true</font>]]></side></item>
+<item audio="proj2_afc_u04ls04_03"><side daType="t"><![CDATA[a check-up]]></side><side daType="t"><![CDATA[<font color="#9d1348">an examination with a doctor or a dentist to see if you are healthy</font>]]></side></item>
+<item audio="proj2_afc_u04ls04_05"><side daType="t"><![CDATA[regular]]></side><side daType="t"><![CDATA[<font color="#9d1348">usual or normal</font>]]></side></item>
+</lesson><lesson no="6"><item audio="proj2_afc_u04ls06_01"><side daType="i"><![CDATA[proj2_ifc_u04ls06_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">discounts</font>]]></side></item>
+<item audio="proj2_afc_u04ls06_03"><side daType="i"><![CDATA[proj2_ifc_u04ls06_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a jewelry store</font>]]></side></item>
+<item audio="proj2_afc_u04ls06_04"><side daType="i"><![CDATA[proj2_ifc_u04ls06_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a department store</font>]]></side></item>
+<item audio="proj2_afc_u04ls06_05"><side daType="i"><![CDATA[proj2_ifc_u04ls06_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a  bracelet</font>]]></side></item>
+<item audio="proj2_afc_u04ls06_06"><side daType="i"><![CDATA[proj2_ifc_u04ls06_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a necklace</font>]]></side></item>
+<item audio="proj2_afc_u04ls06_07"><side daType="i"><![CDATA[proj2_ifc_u04ls06_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">prices</font>]]></side></item>
+</lesson><lesson no="8"><item audio="proj2_afc_u04ls08_01"><side daType="i"><![CDATA[proj2_ifc_u04ls08_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">all sales final/no returns</font>]]></side></item>
+<item audio="proj2_afc_u04ls08_02"><side daType="i"><![CDATA[proj2_ifc_u04ls08_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a UPC bar code</font>]]></side></item>
+<item audio="proj2_afc_u04ls08_03"><side daType="i"><![CDATA[proj2_ifc_u04ls08_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a scanner</font>]]></side></item>
+<item audio="proj2_afc_u04ls08_04"><side daType="i"><![CDATA[proj2_ifc_u04ls08_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a scan</font>]]></side></item>
+<item audio="proj2_afc_u04ls08_05"><side daType="i"><![CDATA[proj2_ifc_u04ls08_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a coupon</font>]]></side></item>
+<item audio="proj2_afc_u04ls08_06"><side daType="i"><![CDATA[proj2_ifc_u04ls08_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a price checker</font>]]></side></item>
+</lesson><lesson no="9"><item audio="proj2_afc_u04ls09_01"><side daType="i"><![CDATA[proj2_ifc_u04ls09_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">broken</font>]]></side></item>
+<item audio="proj2_afc_u04ls09_02"><side daType="i"><![CDATA[proj2_ifc_u04ls09_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">return</font>]]></side></item>
+<item audio="proj2_afc_u04ls09_03"><side daType="i"><![CDATA[proj2_ifc_u04ls09_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">shipping</font>]]></side></item>
+<item audio="proj2_afc_u04ls09_04"><side daType="i"><![CDATA[proj2_ifc_u04ls09_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">throw it away</font>]]></side></item>
+</lesson><lesson no="10"><item audio="proj2_afc_u04ls10_01"><side daType="i"><![CDATA[proj2_ifc_u04ls10_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a museum</font>]]></side></item>
+<item audio="proj2_afc_u04ls10_02"><side daType="i"><![CDATA[proj2_ifc_u04ls10_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an aquarium</font>]]></side></item>
+<item audio="proj2_afc_u04ls10_03"><side daType="i"><![CDATA[proj2_ifc_u04ls10_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a science center</font>]]></side></item>
+</lesson><lesson no="11"><item audio="proj2_afc_u04ls11_01"><side daType="i"><![CDATA[proj2_ifc_u04ls11_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a terminal</font>]]></side></item>
+<item audio="proj2_afc_u04ls11_02"><side daType="i"><![CDATA[proj2_ifc_u04ls11_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a plaza</font>]]></side></item>
+<item audio="proj2_afc_u04ls11_03"><side daType="i"><![CDATA[proj2_ifc_u04ls11_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">city hall</font>]]></side></item>
+<item audio="proj2_afc_u04ls11_04"><side daType="i"><![CDATA[proj2_ifc_u04ls11_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">exact change</font>]]></side></item>
+<item audio="proj2_afc_u04ls11_05"><side daType="i"><![CDATA[proj2_ifc_u04ls11_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a transit card</font>]]></side></item>
+</lesson><lesson no="12"><item audio="proj2_afc_u04ls12_01b"><side daType="t"><![CDATA[F/T]]></side><side daType="t"><![CDATA[<font color="#9d1348">Full-time</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_02b"><side daType="t"><![CDATA[P/T]]></side><side daType="t"><![CDATA[<font color="#9d1348">Part-time</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_03b"><side daType="t"><![CDATA[wk]]></side><side daType="t"><![CDATA[<font color="#9d1348">weekends</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_04b"><side daType="t"><![CDATA[ref.]]></side><side daType="t"><![CDATA[<font color="#9d1348">reference</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_05b"><side daType="t"><![CDATA[M-F]]></side><side daType="t"><![CDATA[<font color="#9d1348">Monday to Friday</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_06b"><side daType="t"><![CDATA["exp.req."]]></side><side daType="t"><![CDATA[<font color="#9d1348">experience required</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_07b"><side daType="t"><![CDATA[hrs/wk.]]></side><side daType="t"><![CDATA[<font color="#9d1348">hours per week</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_08b"><side daType="t"><![CDATA[HS/dip.]]></side><side daType="t"><![CDATA[<font color="#9d1348">high school diploma</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_09b"><side daType="t"><![CDATA[avail. immed.]]></side><side daType="t"><![CDATA[<font color="#9d1348">available immediately</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_10b"><side daType="t"><![CDATA[equip.]]></side><side daType="t"><![CDATA[<font color="#9d1348">equipment</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_11b"><side daType="t"><![CDATA[cust.]]></side><side daType="t"><![CDATA[<font color="#9d1348">customer</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_12b"><side daType="t"><![CDATA[wk]]></side><side daType="t"><![CDATA[<font color="#9d1348">week</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_13b"><side daType="t"><![CDATA[eng.]]></side><side daType="t"><![CDATA[<font color="#9d1348">engineering</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_14b"><side daType="t"><![CDATA[elect.]]></side><side daType="t"><![CDATA[<font color="#9d1348">electric</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_15b"><side daType="t"><![CDATA[plumb.]]></side><side daType="t"><![CDATA[<font color="#9d1348">plumbing</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_16b"><side daType="t"><![CDATA[dip.]]></side><side daType="t"><![CDATA[<font color="#9d1348">diploma</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_17b"><side daType="t"><![CDATA[furn.]]></side><side daType="t"><![CDATA[<font color="#9d1348">furniture</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_18b"><side daType="t"><![CDATA[serv.]]></side><side daType="t"><![CDATA[<font color="#9d1348">service</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_19b"><side daType="t"><![CDATA[yr.]]></side><side daType="t"><![CDATA[<font color="#9d1348">year</font>]]></side></item>
+<item audio="proj2_afc_u04ls12_20b"><side daType="t"><![CDATA[exc.]]></side><side daType="t"><![CDATA[<font color="#9d1348">excellent</font>]]></side></item>
+</lesson></unit><unit no="5"><lesson no= "1"><item audio="proj2_afc_u05ls01_01"><side daType="i"><![CDATA[proj2_ifc_u05ls01_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">hurry</font>]]></side></item>
+<item audio="proj2_afc_u05ls01_02"><side daType="i"><![CDATA[proj2_ifc_u05ls01_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">calm</font>]]></side></item>
+<item audio="proj2_afc_u05ls01_03"><side daType="i"><![CDATA[proj2_ifc_u05ls01_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">worry</font>]]></side></item>
+<item audio="proj2_afc_u05ls01_04"><side daType="i"><![CDATA[proj2_ifc_u05ls01_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">scared</font>]]></side></item>
+<item audio="proj2_afc_u05ls01_05"><side daType="i"><![CDATA[proj2_ifc_u05ls01_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">panic</font>]]></side></item>
+<item audio="proj2_afc_u05ls01_06"><side daType="i"><![CDATA[proj2_ifc_u05ls01_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">stuck</font>]]></side></item>
+</lesson><lesson no="2"><item audio="proj2_afc_u05ls02_01"><side daType="i"><![CDATA[proj2_ifc_u05ls02_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an evacuation</font>]]></side></item>
+<item audio="proj2_afc_u05ls02_02"><side daType="i"><![CDATA[proj2_ifc_u05ls02_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a fire extinguisher</font>]]></side></item>
+<item audio="proj2_afc_u05ls02_03"><side daType="i"><![CDATA[proj2_ifc_u05ls02_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an open door button</font>]]></side></item>
+<item audio="proj2_afc_u05ls02_04"><side daType="i"><![CDATA[proj2_ifc_u05ls02_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an alarm button</font>]]></side></item>
+</lesson><lesson no="3"><item audio="proj2_afc_u05ls03_01"><side daType="t"><![CDATA[report]]></side><side daType="t"><![CDATA[<font color="#9d1348">tell someone important information</font>]]></side></item>
+<item audio="proj2_afc_u05ls03_03"><side daType="t"><![CDATA[repair]]></side><side daType="t"><![CDATA[<font color="#9d1348">fix something that is broken</font>]]></side></item>
+<item audio="proj2_afc_u05ls03_05"><side daType="t"><![CDATA[lucky]]></side><side daType="t"><![CDATA[<font color="#9d1348">have good things happen to you</font>]]></side></item>
+<item audio="proj2_afc_u05ls03_07"><side daType="t"><![CDATA[out of service]]></side><side daType="t"><![CDATA[<font color="#9d1348">not working, broken</font>]]></side></item>
+<item audio="proj2_afc_u05ls03_09"><side daType="t"><![CDATA[immediate]]></side><side daType="t"><![CDATA[<font color="#9d1348">happening or done at once</font>]]></side></item>
+</lesson><lesson no="5"><item audio="proj2_afc_u05ls05_01"><side daType="t"><![CDATA[cover]]></side><side daType="t"><![CDATA[<font color="#9d1348">take someone's shift</font>]]></side></item>
+<item audio="proj2_afc_u05ls05_03"><side daType="t"><![CDATA[extra]]></side><side daType="t"><![CDATA[<font color="#9d1348">more than usual or expected</font>]]></side></item>
+<item audio="proj2_afc_u05ls05_05"><side daType="t"><![CDATA[permanent]]></side><side daType="t"><![CDATA[<font color="#9d1348">happen for a long time or for all time</font>]]></side></item>
+<item audio="proj2_afc_u05ls05_07"><side daType="t"><![CDATA[temporary]]></side><side daType="t"><![CDATA[<font color="#9d1348">happen for a short time</font>]]></side></item>
+<item audio="proj2_afc_u05ls05_09"><side daType="t"><![CDATA[the evening shift]]></side><side daType="t"><![CDATA[<font color="#9d1348">a work schedule usually from 5 PM to 1 AM</font>]]></side></item>
+<item audio="proj2_afc_u05ls05_11"><side daType="t"><![CDATA[the weekend shift]]></side><side daType="t"><![CDATA[<font color="#9d1348">a work schedule on Saturday and Sunday</font>]]></side></item>
+<item audio="proj2_afc_u05ls05_13"><side daType="t"><![CDATA[the day shift]]></side><side daType="t"><![CDATA[<font color="#9d1348">a work schedule usually from 9 AM to 5 PM</font>]]></side></item>
+<item audio="proj2_afc_u05ls05_15"><side daType="t"><![CDATA[the night shift]]></side><side daType="t"><![CDATA[<font color="#9d1348">a work schedule usually from 1 AM to 9 AM</font>]]></side></item>
+</lesson><lesson no="9"><item audio="proj2_afc_u05ls09_01"><side daType="i"><![CDATA[proj2_ifc_u05ls09_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a wedding reception</font>]]></side></item>
+<item audio="proj2_afc_u05ls09_04"><side daType="i"><![CDATA[proj2_ifc_u05ls09_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">set up</font>]]></side></item>
+<item audio="proj2_afc_u05ls09_05"><side daType="i"><![CDATA[proj2_ifc_u05ls09_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a florist</font>]]></side></item>
+<item audio="proj2_afc_u05ls09_06"><side daType="i"><![CDATA[proj2_ifc_u05ls09_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a caterer</font>]]></side></item>
+<item audio="proj2_afc_u05ls09_07"><side daType="i"><![CDATA[proj2_ifc_u05ls09_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a banquet room</font>]]></side></item>
+<item audio="proj2_afc_u05ls09_08"><side daType="i"><![CDATA[proj2_ifc_U05ls09_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a bakery</font>]]></side></item>
+<item audio="proj2_afc_u05ls09_09"><side daType="i"><![CDATA[proj2_ifc_U05ls09_09.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a retirement party</font>]]></side></item>
+<item audio="proj2_afc_u05ls09_10"><side daType="i"><![CDATA[proj2_ifc_U05ls09_10.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a photographer</font>]]></side></item>
+</lesson><lesson no="10"><item audio="proj2_afc_u05ls10_01"><side daType="t"><![CDATA[toast]]></side><side daType="t"><![CDATA[<font color="#9d1348">raise a glass to honor somebody or something</font>]]></side></item>
+<item audio="proj2_afc_u05ls10_03"><side daType="t"><![CDATA[an event]]></side><side daType="t"><![CDATA[<font color="#9d1348">something important or unusual that happens</font>]]></side></item>
+<item audio="proj2_afc_u05ls10_05"><side daType="t"><![CDATA[traditional]]></side><side daType="t"><![CDATA[<font color="#9d1348">done in a particular way for a long time</font>]]></side></item>
+</lesson><lesson no="11"><item audio="proj2_afc_u05ls11_01"><side daType="t"><![CDATA[takeout]]></side><side daType="t"><![CDATA[<font color="#9d1348">food you get at a restaurant and take home to eat</font>]]></side></item>
+<item audio="proj2_afc_u05ls11_03"><side daType="t"><![CDATA[in a hurry]]></side><side daType="t"><![CDATA[<font color="#9d1348">very busy, you don't have a lot of time</font>]]></side></item>
+<item audio="proj2_afc_u05ls11_05"><side daType="t"><![CDATA[on the side]]></side><side daType="t"><![CDATA[<font color="#9d1348">separate from other food</font>]]></side></item>
+<item audio="proj2_afc_u05ls11_07"><side daType="t"><![CDATA[vegetarian]]></side><side daType="t"><![CDATA[<font color="#9d1348">with no meat</font>]]></side></item>
+<item audio="proj2_afc_u05ls11_09"><side daType="t"><![CDATA[spaghetti]]></side><side daType="t"><![CDATA[<font color="#9d1348">type of noodles</font>]]></side></item>
+<item audio="proj2_afc_u05ls11_11"><side daType="t"><![CDATA[an order]]></side><side daType="t"><![CDATA[<font color="#9d1348">food for a person</font>]]></side></item>
+</lesson><lesson no="12"><item audio="proj2_afc_u05ls12_01"><side daType="t"><![CDATA[an application]]></side><side daType="t"><![CDATA[<font color="#9d1348">a written form for a job</font>]]></side></item>
+<item audio="proj2_afc_u05ls12_03"><side daType="t"><![CDATA[overtime]]></side><side daType="t"><![CDATA[<font color="#9d1348">extra time worked at your job</font>]]></side></item>
+<item audio="proj2_afc_u05ls12_05"><side daType="t"><![CDATA[legally]]></side><side daType="t"><![CDATA[<font color="#9d1348">allowed by the law</font>]]></side></item>
+</lesson></unit><unit no="6"><lesson no= "1"><item audio="proj2_afc_u06ls01_01"><side daType="i"><![CDATA[proj2_ifc_u06ls01_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">graduate</font>]]></side></item>
+<item audio="proj2_afc_u06ls01_02"><side daType="i"><![CDATA[proj2_ifc_u06ls01_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a bell hop</font>]]></side></item>
+<item audio="proj2_afc_u06ls01_03"><side daType="i"><![CDATA[proj2_ifc_u06ls01_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">get married</font>]]></side></item>
+<item audio="proj2_afc_u06ls01_04"><side daType="i"><![CDATA[proj2_ifc_u06ls01_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">grow up</font>]]></side></item>
+<item audio="proj2_afc_u06ls01_05"><side daType="i"><![CDATA[proj2_ifc_u06ls01_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a computer programmer</font>]]></side></item>
+<item audio="proj2_afc_u06ls01_06"><side daType="i"><![CDATA[proj2_ifc_U06ls01_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a chef</font>]]></side></item>
+</lesson><lesson no="3"><item audio="proj2_afc_u06ls03_01"><side daType="i"><![CDATA[proj2_ifc_u06ls03_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">radiology</font>]]></side></item>
+<item audio="proj2_afc_u06ls03_02"><side daType="i"><![CDATA[proj2_ifc_u06ls03_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">accounting</font>]]></side></item>
+<item audio="proj2_afc_u06ls03_04"><side daType="i"><![CDATA[proj2_ifc_u06ls03_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a major</font>]]></side></item>
+<item audio="proj2_afc_u06ls03_05"><side daType="i"><![CDATA[proj2_ifc_u06ls03_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an X-ray</font>]]></side></item>
+<item audio="proj2_afc_u06ls03_06"><side daType="i"><![CDATA[proj2_ifc_u06ls03_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an MRI</font>]]></side></item>
+<item audio="proj2_afc_u06ls03_07"><side daType="i"><![CDATA[proj2_ifc_u06ls03_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">dental hygiene</font>]]></side></item>
+<item audio="proj2_afc_u06ls03_08"><side daType="i"><![CDATA[proj2_ifc_u06ls03_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">nursing</font>]]></side></item>
+<item audio="proj2_afc_u06ls03_09"><side daType="i"><![CDATA[proj2_ifc_U06ls03_09.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">hospitality</font>]]></side></item>
+</lesson><lesson no="5"><item audio="proj2_afc_u06ls05_01"><side daType="t"><![CDATA[future]]></side><side daType="t"><![CDATA[<font color="#9d1348">the time after the present</font>]]></side></item>
+<item audio="proj2_afc_u06ls05_03"><side daType="t"><![CDATA[uncertain]]></side><side daType="t"><![CDATA[<font color="#9d1348">not sure</font>]]></side></item>
+<item audio="proj2_afc_u06ls05_05"><side daType="t"><![CDATA[valuable]]></side><side daType="t"><![CDATA[<font color="#9d1348">worth a lot of money</font>]]></side></item>
+<item audio="proj2_afc_u06ls05_07"><side daType="t"><![CDATA[a community college]]></side><side daType="t"><![CDATA[<font color="#9d1348">a two year college to learn a skill or prepare for a career</font>]]></side></item>
+<item audio="proj2_afc_u06ls05_09"><side daType="t"><![CDATA[a university]]></side><side daType="t"><![CDATA[<font color="#9d1348">a school at the highest level of education</font>]]></side></item>
+<item audio="proj2_afc_u06ls05_11"><side daType="t"><![CDATA[an online course]]></side><side daType="t"><![CDATA[<font color="#9d1348">a class students take on the computer</font>]]></side></item>
+<item audio="proj2_afc_u06ls05_13"><side daType="t"><![CDATA[limits]]></side><side daType="t"><![CDATA[<font color="#9d1348">boundaries</font>]]></side></item>
+<item audio="proj2_afc_u06ls05_15"><side daType="t"><![CDATA[a budget]]></side><side daType="t"><![CDATA[<font color="#9d1348">a plan to spend your money</font>]]></side></item>
+</lesson><lesson no="6"><item audio="proj2_afc_u06ls06_01"><side daType="i"><![CDATA[proj2_ifc_u06ls06_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an emergency</font>]]></side></item>
+<item audio="proj2_afc_u06ls06_02"><side daType="i"><![CDATA[proj2_ifc_u06ls06_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">conscious</font>]]></side></item>
+<item audio="proj2_afc_u06ls06_03"><side daType="i"><![CDATA[proj2_ifc_u06ls06_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">alert</font>]]></side></item>
+<item audio="proj2_afc_u06ls06_04"><side daType="i"><![CDATA[proj2_ifc_u06ls06_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">bleeding</font>]]></side></item>
+<item audio="proj2_afc_u06ls06_05"><side daType="i"><![CDATA[proj2_ifc_u06ls06_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a cut</font>]]></side></item>
+<item audio="proj2_afc_u06ls06_06"><side daType="i"><![CDATA[proj2_ifc_u06ls06_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an ambulance</font>]]></side></item>
+<item audio="proj2_afc_u06ls06_07"><side daType="i"><![CDATA[proj2_ifc_u06ls06_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">hang up</font>]]></side></item>
+<item audio="proj2_afc_u06ls06_08"><side daType="i"><![CDATA[proj2_ifc_u06ls06_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a parking lot</font>]]></side></item>
+</lesson><lesson no="7"><item audio="proj2_afc_u06ls07_01"><side daType="t"><![CDATA[minor]]></side><side daType="t"><![CDATA[<font color="#9d1348">not very serious</font>]]></side></item>
+<item audio="proj2_afc_u06ls07_03"><side daType="t"><![CDATA[a witness]]></side><side daType="t"><![CDATA[<font color="#9d1348">a person who sees an accident</font>]]></side></item>
+<item audio="proj2_afc_u06ls07_05"><side daType="t"><![CDATA[DOB]]></side><side daType="t"><![CDATA[<font color="#9d1348">date of birth</font>]]></side></item>
+<item audio="proj2_afc_u06ls07_07"><side daType="t"><![CDATA[a job title]]></side><side daType="t"><![CDATA[<font color="#9d1348">the name of a job</font>]]></side></item>
+<item audio="proj2_afc_u06ls07_09"><side daType="t"><![CDATA[an injury]]></side><side daType="t"><![CDATA[<font color="#9d1348">a harm to the body such as a cut, bruise, or broken bone</font>]]></side></item>
+<item audio="proj2_afc_u06ls07_11"><side daType="t"><![CDATA[medical treatment]]></side><side daType="t"><![CDATA[<font color="#9d1348">help from a doctor <br/>or nurse</font>]]></side></item>
+</lesson><lesson no="8"><item audio="proj2_afc_u06ls08_01"><side daType="i"><![CDATA[proj2_ifc_u06ls08_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348"> an accident</font>]]></side></item>
+<item audio="proj2_afc_u06ls08_02"><side daType="i"><![CDATA[proj2_ifc_u06ls08_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348"> a concussion</font>]]></side></item>
+<item audio="proj2_afc_u06ls08_03"><side daType="i"><![CDATA[proj2_ifc_u06ls08_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348"> a headache</font>]]></side></item>
+<item audio="proj2_afc_u06ls08_04"><side daType="i"><![CDATA[proj2_ifc_u06ls08_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a backache</font>]]></side></item>
+<item audio="proj2_afc_u06ls08_06"><side daType="i"><![CDATA[proj2_ifc_u06ls08_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">nauseous</font>]]></side></item>
+<item audio="proj2_afc_u06ls08_07"><side daType="i"><![CDATA[proj2_ifc_u06ls08_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a sprained ankle</font>]]></side></item>
+</lesson><lesson no="9"><item audio="proj2_afc_u06ls09_01"><side daType="i"><![CDATA[proj2_ifc_u06ls09_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a pharmacy</font>]]></side></item>
+<item audio="proj2_afc_u06ls09_02"><side daType="i"><![CDATA[proj2_ifc_u06ls09_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">surgery</font>]]></side></item>
+<item audio="proj2_afc_u06ls09_03"><side daType="i"><![CDATA[proj2_ifc_u06ls09_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an emergency room </font>]]></side></item>
+<item audio="proj2_afc_u06ls09_04"><side daType="i"><![CDATA[proj2_ifc_u06ls09_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a cafeteria</font>]]></side></item>
+<item audio="proj2_afc_u06ls09_05"><side daType="i"><![CDATA[proj2_ifc_u06ls09_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">downstairs</font>]]></side></item>
+<item audio="proj2_afc_u06ls09_06"><side daType="i"><![CDATA[proj2_ifc_u06ls09_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">upstairs</font>]]></side></item>
+</lesson><lesson no="11"><item audio="proj2_afc_u06ls11_01"><side daType="i"><![CDATA[proj2_ifc_u06ls11_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Keep out!</font>]]></side></item>
+<item audio="proj2_afc_u06ls11_02"><side daType="i"><![CDATA[proj2_ifc_u06ls11_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Danger!</font>]]></side></item>
+<item audio="proj2_afc_u06ls11_03"><side daType="i"><![CDATA[proj2_ifc_u06ls11_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Don't touch!</font>]]></side></item>
+<item audio="proj2_afc_u06ls11_04"><side daType="i"><![CDATA[proj2_ifc_u06ls11_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Wires (down)</font>]]></side></item>
+</lesson></unit><unit no="7"><lesson no= "1"><item audio="proj2_afc_u07ls01_01"><side daType="i"><![CDATA[proj2_ifc_u07ls01_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a temperature</font>]]></side></item>
+<item audio="proj2_afc_u07ls01_02"><side daType="i"><![CDATA[proj2_ifc_u07ls01_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a fever</font>]]></side></item>
+<item audio="proj2_afc_u07ls01_03"><side daType="i"><![CDATA[proj2_ifc_u07ls01_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a sore throat</font>]]></side></item>
+<item audio="proj2_afc_u07ls01_04"><side daType="i"><![CDATA[proj2_ifc_u07ls01_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a stomachache</font>]]></side></item>
+<item audio="proj2_afc_u07ls01_05"><side daType="i"><![CDATA[proj2_ifc_u07ls01_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a cough</font>]]></side></item>
+<item audio="proj2_afc_u07ls01_06"><side daType="i"><![CDATA[proj2_ifc_u07ls01_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">symptoms</font>]]></side></item>
+</lesson><lesson no="3"><item audio="proj2_afc_u07ls03_01"><side daType="t"><![CDATA[sign in]]></side><side daType="t"><![CDATA[<font color="#9d1348">sign your name on a list</font>]]></side></item>
+<item audio="proj2_afc_u07ls03_03"><side daType="t"><![CDATA[arrival time]]></side><side daType="t"><![CDATA[<font color="#9d1348">time you get there</font>]]></side></item>
+<item audio="proj2_afc_u07ls03_06"><side daType="t"><![CDATA[appt]]></side><side daType="t"><![CDATA[<font color="#9d1348">appointment</font>]]></side></item>
+<item audio="proj2_afc_u07ls03_07"><side daType="t"><![CDATA[a healthcare professional]]></side><side daType="t"><![CDATA[<font color="#9d1348">a doctor, nurse, or medical technician</font>]]></side></item>
+<item audio="proj2_afc_u07ls03_09"><side daType="t"><![CDATA[verify]]></side><side daType="t"><![CDATA[<font color="#9d1348">find out if a fact is correct</font>]]></side></item>
+<item audio="proj2_afc_u07ls03_11"><side daType="t"><![CDATA[a copay]]></side><side daType="t"><![CDATA[<font color="#9d1348">the part you pay to the doctor, $10, $25, $20, $25</font>]]></side></item>
+</lesson><lesson no="4"><item audio="proj2_afc_u07ls04_02"><side daType="i"><![CDATA[proj2_ifc_u07ls04_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an allergy</font>]]></side></item>
+<item audio="proj2_afc_u07ls04_03"><side daType="i"><![CDATA[proj2_ifc_u07ls04_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">asthma</font>]]></side></item>
+<item audio="proj2_afc_u07ls04_04"><side daType="i"><![CDATA[proj2_ifc_u07ls04_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">diabetes</font>]]></side></item>
+<item audio="proj2_afc_u07ls04_06"><side daType="i"><![CDATA[proj2_ifc_u07ls04_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">high blood pressure </font>]]></side></item>
+</lesson><lesson no="5"><item audio="proj2_afc_u07ls05_01"><side daType="t"><![CDATA[an antibiotic]]></side><side daType="t"><![CDATA[<font color="#9d1348">medicine used to kill bacteria and cure infections</font>]]></side></item>
+<item audio="proj2_afc_u07ls05_03"><side daType="t"><![CDATA[generic]]></side><side daType="t"><![CDATA[<font color="#9d1348">not having a company name</font>]]></side></item>
+<item audio="proj2_afc_u07ls05_05"><side daType="t"><![CDATA[drowsy]]></side><side daType="t"><![CDATA[<font color="#9d1348">very tired, almost asleep</font>]]></side></item>
+<item audio="proj2_afc_u07ls05_08"><side daType="t"><![CDATA[exp.]]></side><side daType="t"><![CDATA[<font color="#9d1348">expiration, the date when something is not safe to use anymore</font>]]></side></item>
+<item audio="proj2_afc_u07ls05_09"><side daType="t"><![CDATA[an active ingredient]]></side><side daType="t"><![CDATA[<font color="#9d1348">the part of a medicine that makes it work</font>]]></side></item>
+<item audio="proj2_afc_u07ls05_11"><side daType="t"><![CDATA[relieve]]></side><side daType="t"><![CDATA[<font color="#9d1348">make something or someone feel better</font>]]></side></item>
+<item audio="proj2_afc_u07ls05_13"><side daType="t"><![CDATA[a dose]]></side><side daType="t"><![CDATA[<font color="#9d1348">how much medicine you should take at one time</font>]]></side></item>
+<item audio="proj2_afc_u07ls05_15"><side daType="t"><![CDATA[an OTC drug]]></side><side daType="t"><![CDATA[<font color="#9d1348">an over-the-counter medicine that you can get without a doctor's order</font>]]></side></item>
+</lesson><lesson no="7"><item audio="proj2_afc_u07ls07_01"><side daType="i"><![CDATA[proj2_ifc_u07ls07_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">jumpstart</font>]]></side></item>
+<item audio="proj2_afc_u07ls07_02"><side daType="i"><![CDATA[proj2_ifc_u07ls07_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a taxi</font>]]></side></item>
+<item audio="proj2_afc_u07ls07_04"><side daType="i"><![CDATA[proj2_ifc_u07ls07_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a tow truck</font>]]></side></item>
+<item audio="proj2_afc_u07ls07_05"><side daType="i"><![CDATA[proj2_ifc_U07ls07_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a bus</font>]]></side></item>
+</lesson><lesson no="8"><item audio="proj2_afc_u07ls08_01"><side daType="t"><![CDATA[a coworker]]></side><side daType="t"><![CDATA[<font color="#9d1348">someone you work with</font>]]></side></item>
+<item audio="proj2_afc_u07ls08_03"><side daType="t"><![CDATA[a complaint]]></side><side daType="t"><![CDATA[<font color="#9d1348">something you say which shows that you are unhappy or angry</font>]]></side></item>
+<item audio="proj2_afc_u07ls08_05"><side daType="t"><![CDATA[stressed out]]></side><side daType="t"><![CDATA[<font color="#9d1348">worried and tired</font>]]></side></item>
+<item audio="proj2_afc_u07ls08_07"><side daType="t"><![CDATA[upset]]></side><side daType="t"><![CDATA[<font color="#9d1348">unhappy or worried</font>]]></side></item>
+<item audio="proj2_afc_u07ls08_09"><side daType="t"><![CDATA[a situation]]></side><side daType="t"><![CDATA[<font color="#9d1348">all the things that are happening at a particular place and time</font>]]></side></item>
+<item audio="proj2_afc_u07ls08_11"><side daType="t"><![CDATA[tricky]]></side><side daType="t"><![CDATA[<font color="#9d1348">difficult</font>]]></side></item>
+<item audio="proj2_afc_u07ls08_13"><side daType="t"><![CDATA[equally]]></side><side daType="t"><![CDATA[<font color="#9d1348">the same</font>]]></side></item>
+<item audio="proj2_afc_u07ls08_15"><side daType="t"><![CDATA[a favor]]></side><side daType="t"><![CDATA[<font color="#9d1348">a special thing you do for a person</font>]]></side></item>
+</lesson><lesson no="9"><item audio="proj2_afc_u07ls09_01"><side daType="i"><![CDATA[proj2_ifc_u07ls09_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a bus tour</font>]]></side></item>
+<item audio="proj2_afc_u07ls09_02"><side daType="i"><![CDATA[proj2_ifc_u07ls09_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">exhausted</font>]]></side></item>
+<item audio="proj2_afc_u07ls09_03"><side daType="i"><![CDATA[proj2_ifc_u07ls09_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">senior citizens</font>]]></side></item>
+<item audio="proj2_afc_u07ls09_04"><side daType="i"><![CDATA[proj2_ifc_u07ls09_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a flight</font>]]></side></item>
+</lesson><lesson no="11"><item audio="proj2_afc_u07ls11_01"><side daType="t"><![CDATA[software]]></side><side daType="t"><![CDATA[<font color="#9d1348">instructions that tell a computer what to do</font>]]></side></item>
+<item audio="proj2_afc_u07ls11_03"><side daType="t"><![CDATA[efficient]]></side><side daType="t"><![CDATA[<font color="#9d1348">working well</font>]]></side></item>
+<item audio="proj2_afc_u07ls11_05"><side daType="t"><![CDATA[multitask]]></side><side daType="t"><![CDATA[<font color="#9d1348">do many things at one time</font>]]></side></item>
+<item audio="proj2_afc_u07ls11_07"><side daType="t"><![CDATA[a screen]]></side><side daType="t"><![CDATA[<font color="#9d1348">the flat glass part of the computer</font>]]></side></item>
+<item audio="proj2_afc_u07ls11_09"><side daType="t"><![CDATA[click on]]></side><side daType="t"><![CDATA[<font color="#9d1348">press a button and choose something on a computer</font>]]></side></item>
+<item audio="proj2_afc_u07ls11_11"><side daType="t"><![CDATA[a record]]></side><side daType="t"><![CDATA[<font color="#9d1348">saved information</font>]]></side></item>
+<item audio="proj2_afc_u07ls11_13"><side daType="t"><![CDATA[sort]]></side><side daType="t"><![CDATA[<font color="#9d1348">put things in a particular order</font>]]></side></item>
+</lesson><lesson no="12"><item audio="proj2_afc_u07ls12_01"><side daType="i"><![CDATA[proj2_ifc_u07ls12_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">wear clean and neat clothes</font>]]></side></item>
+<item audio="proj2_afc_u07ls12_02"><side daType="i"><![CDATA[proj2_ifc_u07ls12_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">shake hands</font>]]></side></item>
+<item audio="proj2_afc_u07ls12_03"><side daType="i"><![CDATA[proj2_ifc_u07ls12_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">smile</font>]]></side></item>
+<item audio="proj2_afc_u07ls12_04"><side daType="i"><![CDATA[proj2_ifc_u07ls12_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">make eye contact</font>]]></side></item>
+<item audio="proj2_afc_u07ls12_05"><side daType="i"><![CDATA[proj2_ifc_u07ls12_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">sit up straight</font>]]></side></item>
+<item audio="proj2_afc_u07ls12_06"><side daType="i"><![CDATA[proj2_ifc_u07ls12_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">put your hands in your lap</font>]]></side></item>
+</lesson></unit><unit no="8"><lesson no= "1"><item audio="proj2_afc_u08ls01_01"><side daType="i"><![CDATA[proj2_ifc_u08ls01_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a dining room</font>]]></side></item>
+<item audio="proj2_afc_u08ls01_02"><side daType="i"><![CDATA[proj2_ifc_u08ls01_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a backyard</font>]]></side></item>
+<item audio="proj2_afc_u08ls01_03"><side daType="i"><![CDATA[proj2_ifc_u08ls01_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a terrace</font>]]></side></item>
+<item audio="proj2_afc_u08ls01_04"><side daType="i"><![CDATA[proj2_ifc_u08ls01_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">appliances</font>]]></side></item>
+<item audio="proj2_afc_u08ls01_05"><side daType="i"><![CDATA[proj2_ifc_u08ls01_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">cabinets</font>]]></side></item>
+</lesson><lesson no="3"><item audio="proj2_afc_u08ls03_01"><side daType="t"><![CDATA[current]]></side><side daType="t"><![CDATA[<font color="#9d1348">now</font>]]></side></item>
+<item audio="proj2_afc_u08ls03_03"><side daType="t"><![CDATA[previous]]></side><side daType="t"><![CDATA[<font color="#9d1348">before, in the past</font>]]></side></item>
+<item audio="proj2_afc_u08ls03_05"><side daType="t"><![CDATA[a position]]></side><side daType="t"><![CDATA[<font color="#9d1348">a job</font>]]></side></item>
+<item audio="proj2_afc_u08ls03_07"><side daType="t"><![CDATA[credit history]]></side><side daType="t"><![CDATA[<font color="#9d1348">a record of how much money you borrowed and paid back</font>]]></side></item>
+<item audio="proj2_afc_u08ls03_09"><side daType="t"><![CDATA[a balance]]></side><side daType="t"><![CDATA[<font color="#9d1348">how much money you have in your account</font>]]></side></item>
+<item audio="proj2_afc_u08ls03_11"><side daType="t"><![CDATA[a reference]]></side><side daType="t"><![CDATA[<font color="#9d1348">a person who knows you well and can give information about you</font>]]></side></item>
+</lesson><lesson no="4"><item audio="proj2_afc_u08ls04_01"><side daType="i"><![CDATA[proj2_ifc_u08ls04_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">move in</font>]]></side></item>
+<item audio="proj2_afc_u08ls04_02"><side daType="i"><![CDATA[proj2_ifc_u08ls04_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">pack</font>]]></side></item>
+<item audio="proj2_afc_u08ls04_03"><side daType="i"><![CDATA[proj2_ifc_u08ls04_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">rent</font>]]></side></item>
+<item audio="proj2_afc_u08ls04_04"><side daType="i"><![CDATA[proj2_ifc_u08ls04_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an online ad</font>]]></side></item>
+<item audio="proj2_afc_u08ls04_05"><side daType="i"><![CDATA[proj2_ifc_u08ls04_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a paycheck </font>]]></side></item>
+</lesson><lesson no="6"><item audio="proj2_afc_u08ls06_01"><side daType="t"><![CDATA[utilities]]></side><side daType="t"><![CDATA[<font color="#9d1348">services such as gas, electricity, and water</font>]]></side></item>
+<item audio="proj2_afc_u08ls06_03"><side daType="t"><![CDATA[a monthly statement]]></side><side daType="t"><![CDATA[<font color="#9d1348">a report sent each month about how much money you paid and need to pay</font>]]></side></item>
+<item audio="proj2_afc_u08ls06_05"><side daType="t"><![CDATA[an account]]></side><side daType="t"><![CDATA[<font color="#9d1348">a record of your past payments and current charges</font>]]></side></item>
+<item audio="proj2_afc_u08ls06_07"><side daType="t"><![CDATA[a charge]]></side><side daType="t"><![CDATA[<font color="#9d1348">money you need to pay</font>]]></side></item>
+<item audio="proj2_afc_u08ls06_09"><side daType="t"><![CDATA[a due date]]></side><side daType="t"><![CDATA[<font color="#9d1348">the date you need to pay your bill</font>]]></side></item>
+<item audio="proj2_afc_u08ls06_11"><side daType="t"><![CDATA[cancel]]></side><side daType="t"><![CDATA[<font color="#9d1348">stop something</font>]]></side></item>
+<item audio="proj2_afc_u08ls06_13"><side daType="t"><![CDATA[energy]]></side><side daType="t"><![CDATA[<font color="#9d1348">power that makes machines work</font>]]></side></item>
+</lesson><lesson no="7"><item audio="proj2_afc_u08ls07_01"><side daType="i"><![CDATA[proj2_ifc_u08ls07_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">sign</font>]]></side></item>
+<item audio="proj2_afc_u08ls07_02"><side daType="i"><![CDATA[proj2_ifc_u08ls07_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a security deposit</font>]]></side></item>
+<item audio="proj2_afc_u08ls07_03"><side daType="i"><![CDATA[proj2_ifc_u08ls07_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">review</font>]]></side></item>
+<item audio="proj2_afc_u08ls07_04"><side daType="i"><![CDATA[proj2_ifc_u08ls07_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">water</font>]]></side></item>
+</lesson><lesson no="9"><item audio="proj2_afc_u08ls09_01"><side daType="t"><![CDATA[local]]></side><side daType="t"><![CDATA[<font color="#9d1348">close to where you live</font>]]></side></item>
+<item audio="proj2_afc_u08ls09_03"><side daType="t"><![CDATA[resources]]></side><side daType="t"><![CDATA[<font color="#9d1348">things you can use to get information or make a job or activity easier</font>]]></side></item>
+<item audio="proj2_afc_u08ls09_05"><side daType="t"><![CDATA[intermediate]]></side><side daType="t"><![CDATA[<font color="#9d1348">between the beginning and advanced skill level</font>]]></side></item>
+<item audio="proj2_afc_u08ls09_07"><side daType="t"><![CDATA[an opening]]></side><side daType="t"><![CDATA[<font color="#9d1348">when a business or art show begins</font>]]></side></item>
+</lesson><lesson no="10"><item audio="proj2_afc_u08ls10_01"><side daType="t"><![CDATA[transfers]]></side><side daType="t"><![CDATA[<font color="#9d1348">money changed from one bank account to another</font>]]></side></item>
+<item audio="proj2_afc_u08ls10_03"><side daType="t"><![CDATA[assets]]></side><side daType="t"><![CDATA[<font color="#9d1348">money you have in your account</font>]]></side></item>
+<item audio="proj2_afc_u08ls10_05"><side daType="t"><![CDATA[liabilities]]></side><side daType="t"><![CDATA[<font color="#9d1348">money you owe; debts</font>]]></side></item>
+<item audio="proj2_afc_u08ls10_07"><side daType="t"><![CDATA[available balance]]></side><side daType="t"><![CDATA[<font color="#9d1348">money in your account that you can use</font>]]></side></item>
+<item audio="proj2_afc_u08ls10_09"><side daType="t"><![CDATA[transactions]]></side><side daType="t"><![CDATA[<font color="#9d1348">putting money into or taking money out of a bank account</font>]]></side></item>
+<item audio="proj2_afc_u08ls10_11"><side daType="t"><![CDATA[deposits/ credits]]></side><side daType="t"><![CDATA[<font color="#9d1348">money added to your account</font>]]></side></item>
+<item audio="proj2_afc_u08ls10_13"><side daType="t"><![CDATA[withdrawals/ debits]]></side><side daType="t"><![CDATA[<font color="#9d1348">money taken out of your account</font>]]></side></item>
+</lesson><lesson no="11"><item audio="proj2_afc_u08ls11_01"><side daType="i"><![CDATA[proj2_ifc_u08ls11_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an exterminator</font>]]></side></item>
+<item audio="proj2_afc_u08ls11_02"><side daType="i"><![CDATA[proj2_ifc_u08ls11_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Spanish food</font>]]></side></item>
+<item audio="proj2_afc_u08ls11_03"><side daType="i"><![CDATA[proj2_ifc_u08ls11_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a text message</font>]]></side></item>
+<item audio="proj2_afc_u08ls11_04"><side daType="i"><![CDATA[proj2_ifc_u08ls11_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a trap</font>]]></side></item>
+<item audio="proj2_afc_u08ls11_05"><side daType="i"><![CDATA[proj2_ifc_u08ls11_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">mice</font>]]></side></item>
+<item audio="proj2_afc_u08ls11_06"><side daType="i"><![CDATA[proj2_ifc_u08ls11_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">spiders</font>]]></side></item>
+<item audio="proj2_afc_u08ls11_07"><side daType="i"><![CDATA[proj2_ifc_u08ls11_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">cockroaches</font>]]></side></item>
+</lesson></unit><unit no="9"><lesson no= "1"><item audio="proj2_afc_u09ls01_01"><side daType="i"><![CDATA[proj2_ifc_u09ls01_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">produce</font>]]></side></item>
+<item audio="proj2_afc_u09ls01_02"><side daType="i"><![CDATA[proj2_ifc_u09ls01_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">vegetables</font>]]></side></item>
+<item audio="proj2_afc_u09ls01_03"><side daType="i"><![CDATA[proj2_ifc_u09ls01_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">fruits</font>]]></side></item>
+<item audio="proj2_afc_u09ls01_04"><side daType="i"><![CDATA[proj2_ifc_u09ls01_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">seafood</font>]]></side></item>
+<item audio="proj2_afc_u09ls01_05"><side daType="i"><![CDATA[proj2_ifc_u09ls01_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a pound</font>]]></side></item>
+<item audio="proj2_afc_u09ls01_06"><side daType="i"><![CDATA[proj2_ifc_u09ls01_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">grapes</font>]]></side></item>
+<item audio="proj2_afc_u09ls01_07"><side daType="i"><![CDATA[proj2_ifc_u09ls01_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">cherries</font>]]></side></item>
+</lesson><lesson no="3"><item audio="proj2_afc_u09ls03_01"><side daType="i"><![CDATA[proj2_ifc_u09ls03_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348"> a salmon fillet</font>]]></side></item>
+<item audio="proj2_afc_u09ls03_02"><side daType="i"><![CDATA[proj2_ifc_u09ls03_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348"> a salmon steak</font>]]></side></item>
+<item audio="proj2_afc_u09ls03_03"><side daType="i"><![CDATA[proj2_ifc_u09ls03_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">leftovers</font>]]></side></item>
+<item audio="proj2_afc_u09ls03_04"><side daType="i"><![CDATA[proj2_ifc_u09ls03_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">macaroni</font>]]></side></item>
+<item audio="proj2_afc_u09ls03_05"><side daType="i"><![CDATA[proj2_ifc_u09ls03_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">pasta</font>]]></side></item>
+<item audio="proj2_afc_u09ls03_06"><side daType="i"><![CDATA[proj2_ifc_u09ls03_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a recipe</font>]]></side></item>
+<item audio="proj2_afc_u09ls03_07"><side daType="i"><![CDATA[proj2_ifc_u09ls03_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">ingredients</font>]]></side></item>
+</lesson><lesson no="5"><item audio="proj2_afc_u09ls05_01"><side daType="i"><![CDATA[proj2_ifc_u09ls05_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">spices</font>]]></side></item>
+<item audio="proj2_afc_u09ls05_02"><side daType="i"><![CDATA[proj2_ifc_u09ls05_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">fry</font>]]></side></item>
+<item audio="proj2_afc_u09ls05_03"><side daType="i"><![CDATA[proj2_ifc_u09ls05_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a packet</font>]]></side></item>
+<item audio="proj2_afc_u09ls05_04"><side daType="i"><![CDATA[proj2_ifc_u09ls05_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">boil</font>]]></side></item>
+<item audio="proj2_afc_u09ls05_05"><side daType="i"><![CDATA[proj2_ifc_u09ls05_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">drain</font>]]></side></item>
+<item audio="proj2_afc_u09ls05_06"><side daType="i"><![CDATA[proj2_ifc_u09ls05_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">serve</font>]]></side></item>
+<item audio="proj2_afc_u09ls05_07"><side daType="i"><![CDATA[proj2_ifc_u09ls05_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">rinse</font>]]></side></item>
+</lesson><lesson no="6"><item audio="proj2_afc_u09ls06_01"><side daType="i"><![CDATA[proj2_ifc_u09ls06_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a business</font>]]></side></item>
+<item audio="proj2_afc_u09ls06_03"><side daType="i"><![CDATA[proj2_ifc_u09ls06_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a bargain</font>]]></side></item>
+<item audio="proj2_afc_u09ls06_04"><side daType="i"><![CDATA[proj2_ifc_u09ls06_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">groceries</font>]]></side></item>
+</lesson><lesson no="7"><item audio="proj2_afc_u09ls07_01"><side daType="i"><![CDATA[proj2_ifc_u09ls07_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">dairy products</font>]]></side></item>
+<item audio="proj2_afc_u09ls07_02"><side daType="i"><![CDATA[proj2_ifc_u09ls07_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">poultry</font>]]></side></item>
+<item audio="proj2_afc_u09ls07_03"><side daType="i"><![CDATA[proj2_ifc_u09ls07_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a freezer </font>]]></side></item>
+<item audio="proj2_afc_u09ls07_04"><side daType="i"><![CDATA[proj2_ifc_u09ls07_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">luncheon meat/cold cuts </font>]]></side></item>
+</lesson><lesson no="8"><item audio="proj2_afc_u09ls08_01"><side daType="t"><![CDATA[a label]]></side><side daType="t"><![CDATA[<font color="#9d1348">a piece of paper that is attached to something and has information about it</font>]]></side></item>
+<item audio="proj2_afc_u09ls08_03"><side daType="t"><![CDATA[spray]]></side><side daType="t"><![CDATA[<font color="#9d1348">to make a liquid (like water) come out in a stream of very small drops</font>]]></side></item>
+<item audio="proj2_afc_u09ls08_07"><side daType="t"><![CDATA[shiny]]></side><side daType="t"><![CDATA[<font color="#9d1348">bright and smooth looking</font>]]></side></item>
+<item audio="proj2_afc_u09ls08_09"><side daType="t"><![CDATA[discouraging]]></side><side daType="t"><![CDATA[<font color="#9d1348">upsetting</font>]]></side></item>
+</lesson><lesson no="9"><item audio="proj2_afc_u09ls09_01"><side daType="i"><![CDATA[proj2_ifc_u09ls09_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">off duty</font>]]></side></item>
+<item audio="proj2_afc_u09ls09_02"><side daType="i"><![CDATA[proj2_ifc_u09ls09_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">wiped out</font>]]></side></item>
+<item audio="proj2_afc_u09ls09_03"><side daType="i"><![CDATA[proj2_ifc_u09ls09_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">chores</font>]]></side></item>
+<item audio="proj2_afc_u09ls09_04"><side daType="i"><![CDATA[proj2_ifc_u09ls09_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">changing beds</font>]]></side></item>
+<item audio="proj2_afc_u09ls09_05"><side daType="i"><![CDATA[proj2_ifc_u09ls09_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">vacuuming</font>]]></side></item>
+<item audio="proj2_afc_u09ls09_06"><side daType="i"><![CDATA[proj2_ifc_u09ls09_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">exercise</font>]]></side></item>
+<item audio="proj2_afc_u09ls09_07"><side daType="i"><![CDATA[proj2_ifc_u09ls09_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">taking a coffee break</font>]]></side></item>
+<item audio="proj2_afc_u09ls09_08"><side daType="i"><![CDATA[proj2_ifc_u09ls09_08.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">at lunch</font>]]></side></item>
+</lesson><lesson no="10"><item audio="proj2_afc_u09ls10_01"><side daType="i"><![CDATA[proj2_ifc_u09ls10_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Have a seat.</font>]]></side></item>
+<item audio="proj2_afc_u09ls10_02"><side daType="i"><![CDATA[proj2_ifc_u09ls10_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">Close the door.</font>]]></side></item>
+<item audio="proj2_afc_u09ls10_03"><side daType="i"><![CDATA[proj2_ifc_u09ls10_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a doctor's appointment</font>]]></side></item>
+<item audio="proj2_afc_u09ls10_04"><side daType="i"><![CDATA[proj2_ifc_u09ls10_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a dentist's appointment</font>]]></side></item>
+</lesson></unit><unit no="10"><lesson no= "1"><item audio="proj2_afc_u10ls01_01"><side daType="t"><![CDATA[training]]></side><side daType="t"><![CDATA[<font color="#9d1348">being taught skills</font>]]></side></item>
+<item audio="proj2_afc_u10ls01_03"><side daType="t"><![CDATA[nervous]]></side><side daType="t"><![CDATA[<font color="#9d1348">worried or afraid</font>]]></side></item>
+<item audio="proj2_afc_u10ls01_05"><side daType="t"><![CDATA[prepared]]></side><side daType="t"><![CDATA[<font color="#9d1348">ready for an emergency</font>]]></side></item>
+<item audio="proj2_afc_u10ls01_07"><side daType="t"><![CDATA[practice]]></side><side daType="t"><![CDATA[<font color="#9d1348">repeat an activity to get better</font>]]></side></item>
+<item audio="proj2_afc_u10ls01_09"><side daType="t"><![CDATA[a hazard]]></side><side daType="t"><![CDATA[<font color="#9d1348">a dangerous situation</font>]]></side></item>
+<item audio="proj2_afc_u10ls01_13"><side daType="t"><![CDATA[a procedure]]></side><side daType="t"><![CDATA[<font color="#9d1348">the correct way of doing something</font>]]></side></item>
+<item audio="proj2_afc_u10ls01_15"><side daType="t"><![CDATA[concerned]]></side><side daType="t"><![CDATA[<font color="#9d1348">worried about something important</font>]]></side></item>
+<item audio="proj2_afc_u10ls01_17"><side daType="t"><![CDATA[anxious]]></side><side daType="t"><![CDATA[<font color="#9d1348">very worried</font>]]></side></item>
+</lesson><lesson no="3"><item audio="proj2_afc_u10ls03_01"><side daType="i"><![CDATA[proj2_ifc_u10ls03_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a disaster</font>]]></side></item>
+<item audio="proj2_afc_u10ls03_02"><side daType="i"><![CDATA[proj2_ifc_u10ls03_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an earthquake </font>]]></side></item>
+<item audio="proj2_afc_u10ls03_03"><side daType="i"><![CDATA[proj2_ifc_u10ls03_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a fire </font>]]></side></item>
+<item audio="proj2_afc_u10ls03_04"><side daType="i"><![CDATA[proj2_ifc_u10ls03_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a first-aid kit </font>]]></side></item>
+<item audio="proj2_afc_u10ls03_05"><side daType="i"><![CDATA[proj2_ifc_u10ls03_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a flashlight </font>]]></side></item>
+<item audio="proj2_afc_u10ls03_06"><side daType="i"><![CDATA[proj2_ifc_u10ls03_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a flood</font>]]></side></item>
+<item audio="proj2_afc_u10ls03_07"><side daType="i"><![CDATA[proj2_ifc_u10ls03_07.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a storm</font>]]></side></item>
+</lesson><lesson no="4"><item audio="proj2_afc_u10ls04_01"><side daType="i"><![CDATA[proj2_ifc_u10ls04_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">traffic</font>]]></side></item>
+<item audio="proj2_afc_u10ls04_02"><side daType="i"><![CDATA[proj2_ifc_u10ls04_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">read</font>]]></side></item>
+<item audio="proj2_afc_u10ls04_03"><side daType="i"><![CDATA[proj2_ifc_U10ls04_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">relax</font>]]></side></item>
+<item audio="proj2_afc_u10ls04_04"><side daType="i"><![CDATA[proj2_ifc_u10ls04_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">work</font>]]></side></item>
+<item audio="proj2_afc_u10ls04_05"><side daType="i"><![CDATA[proj2_ifc_u10ls04_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">sleep</font>]]></side></item>
+</lesson><lesson no="6"><item audio="proj2_afc_u10ls06_01"><side daType="t"><![CDATA[a destination]]></side><side daType="t"><![CDATA[<font color="#9d1348">the place you are going to</font>]]></side></item>
+<item audio="proj2_afc_u10ls06_03"><side daType="t"><![CDATA[a departure]]></side><side daType="t"><![CDATA[<font color="#9d1348">the time you leave</font>]]></side></item>
+<item audio="proj2_afc_u10ls06_05"><side daType="t"><![CDATA[an arrival]]></side><side daType="t"><![CDATA[<font color="#9d1348">the time you get to the place</font>]]></side></item>
+<item audio="proj2_afc_u10ls06_07"><side daType="t"><![CDATA[the fare]]></side><side daType="t"><![CDATA[<font color="#9d1348">money you pay for transportation</font>]]></side></item>
+<item audio="proj2_afc_u10ls06_09"><side daType="t"><![CDATA[a senior]]></side><side daType="t"><![CDATA[<font color="#9d1348">a person 62 or 65 years and older</font>]]></side></item>
+<item audio="proj2_afc_u10ls06_11"><side daType="t"><![CDATA[an advantage]]></side><side daType="t"><![CDATA[<font color="#9d1348">something that <br/>helps you</font>]]></side></item>
+<item audio="proj2_afc_u10ls06_13"><side daType="t"><![CDATA[a disadvantage]]></side><side daType="t"><![CDATA[<font color="#9d1348">something that makes things more difficult</font>]]></side></item>
+</lesson><lesson no="7"><item audio="proj2_afc_u10ls07_01"><side daType="i"><![CDATA[proj2_ifc_u10ls07_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">go over a bridge </font>]]></side></item>
+<item audio="proj2_afc_u10ls07_02"><side daType="i"><![CDATA[proj2_ifc_u10ls07_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">an exit </font>]]></side></item>
+<item audio="proj2_afc_u10ls07_03"><side daType="i"><![CDATA[proj2_ifc_u10ls07_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">merge</font>]]></side></item>
+<item audio="proj2_afc_u10ls07_04"><side daType="i"><![CDATA[proj2_ifc_u10ls07_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">go through a toll plaza </font>]]></side></item>
+<item audio="proj2_afc_u10ls07_05"><side daType="i"><![CDATA[proj2_ifc_u10ls07_05.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">go through a tunnel </font>]]></side></item>
+<item audio="proj2_afc_u10ls07_06"><side daType="i"><![CDATA[proj2_ifc_u10ls07_06.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a turnpike</font>]]></side></item>
+</lesson><lesson no="8"><item audio="proj2_afc_u10ls08_01"><side daType="i"><![CDATA[proj2_ifc_u10ls08_01.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">north</font>]]></side></item>
+<item audio="proj2_afc_u10ls08_02"><side daType="i"><![CDATA[proj2_ifc_u10ls08_02.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a fork</font>]]></side></item>
+<item audio="proj2_afc_u10ls08_03"><side daType="i"><![CDATA[proj2_ifc_u10ls08_03.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a ramp </font>]]></side></item>
+<item audio="proj2_afc_u10ls08_04"><side daType="i"><![CDATA[proj2_ifc_u10ls08_04.jpg]]></side><side daType="t"><![CDATA[<font color="#9d1348">a toll road </font>]]></side></item>
+</lesson><lesson no="9"><item audio="proj2_afc_u10ls09_01"><side daType="t"><![CDATA[a crossing]]></side><side daType="t"><![CDATA[<font color="#9d1348">where people walk across the street</font>]]></side></item>
+<item audio="proj2_afc_u10ls09_03"><side daType="t"><![CDATA[a lane]]></side><side daType="t"><![CDATA[<font color="#9d1348">part of a street or road; divided by lines</font>]]></side></item>
+<item audio="proj2_afc_u10ls09_05"><side daType="t"><![CDATA[construction]]></side><side daType="t"><![CDATA[<font color="#9d1348">where people are working on the road</font>]]></side></item>
+<item audio="proj2_afc_u10ls09_07"><side daType="t"><![CDATA[yield]]></side><side daType="t"><![CDATA[<font color="#9d1348">wait for other cars to go by before you go</font>]]></side></item>
+<item audio="proj2_afc_u10ls09_09"><side daType="t"><![CDATA[a tow-away zone]]></side><side daType="t"><![CDATA[<font color="#9d1348">an area where, if you park there, your car will be moved and you will have to pay a fine</font>]]></side></item>
+</lesson><lesson no="10"><item audio="proj2_afc_u10ls10_03"><side daType="t"><![CDATA[a review]]></side><side daType="t"><![CDATA[<font color="#9d1348">a piece of writing that gives an opinion</font>]]></side></item>
+<item audio="proj2_afc_u10ls10_05"><side daType="t"><![CDATA[courteous]]></side><side daType="t"><![CDATA[<font color="#9d1348">polite</font>]]></side></item>
+<item audio="proj2_afc_u10ls10_07"><side daType="t"><![CDATA[the staff]]></side><side daType="t"><![CDATA[<font color="#9d1348">a group of people who work together</font>]]></side></item>
+<item audio="proj2_afc_u10ls10_11"><side daType="t"><![CDATA[invite]]></side><side daType="t"><![CDATA[<font color="#9d1348">ask someone</font>]]></side></item>
+<item audio="proj2_afc_u10ls10_13"><side daType="t"><![CDATA[the management]]></side><side daType="t"><![CDATA[<font color="#9d1348">people in charge of a business or company</font>]]></side></item>
+<item audio="proj2_afc_u10ls10_15"><side daType="t"><![CDATA[publicity]]></side><side daType="t"><![CDATA[<font color="#9d1348">attention from newspapers or television</font>]]></side></item>
+</lesson></unit>
+
+</root>

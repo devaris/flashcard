@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+     <unit no="10">
+      <lesson no="9">
+         <item>
+            <side audio="17" daType="t"><![CDATA[17]]></side>
+            <side audio="16" daType="t"><![CDATA[16]]></side>
+         </item>
+         <item audio="proj2_afc_u10ls10_15">
+            <side audio="17" daType="t"><![CDATA[17 and item audio attribute]]></side>
+            <side audio="16" daType="t"><![CDATA[16 and item audio attribute]]></side>
+         </item>
+         <item >
+            <side audio="16" daType="t"><![CDATA[16 and other side empty]]></side>
+            <side daType="t"><![CDATA[NO AUDIO, other side 16]]></side>
+         </item>
+         <item >
+            <side daType="t"><![CDATA[NO AUDIO - other side 17]]></side>
+            <side audio="17" daType="t"><![CDATA[17 - other side no audio]]></side>
+         </item>
+         <item>
+            <side daType="t"><![CDATA[NO AUDIO TAGS-side1]]></side>
+            <side daType="t"><![CDATA[NO AUDIO TAGS-side2]]></side>
+         </item>		 
+      </lesson>
+   </unit>
+</root>
